@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tub.png"><SubTexture name="tub idle0000" x="0" y="0" width="1354" height="683" frameX="0" frameY="0" frameWidth="1354" frameHeight="683" />
+<SubTexture name="tub idle0001" x="1354" y="0" width="1354" height="683" frameX="0" frameY="0" frameWidth="1354" frameHeight="683" />
+<SubTexture name="tub idle0002" x="2708" y="0" width="1354" height="683" frameX="0" frameY="0" frameWidth="1354" frameHeight="683" />
+<SubTexture name="tub right0000" x="4062" y="0" width="1354" height="683" frameX="0" frameY="0" frameWidth="1354" frameHeight="683" />
+<SubTexture name="tub right0001" x="0" y="683" width="1354" height="683" frameX="0" frameY="0" frameWidth="1354" frameHeight="683" />
+<SubTexture name="tub right0002" x="1354" y="683" width="1354" height="683" frameX="0" frameY="0" frameWidth="1354" frameHeight="683" />
+<SubTexture name="tub up0000" x="2708" y="683" width="1354" height="683" frameX="0" frameY="0" frameWidth="1354" frameHeight="683" />
+<SubTexture name="tub up0001" x="4062" y="683" width="1354" height="683" frameX="0" frameY="0" frameWidth="1354" frameHeight="683" />
+<SubTexture name="tub up0002" x="0" y="1366" width="1354" height="683" frameX="0" frameY="0" frameWidth="1354" frameHeight="683" />
+<SubTexture name="tub left0000" x="1354" y="1366" width="1354" height="683" frameX="0" frameY="0" frameWidth="1354" frameHeight="683" />
+<SubTexture name="tub left0001" x="2708" y="1366" width="1354" height="683" frameX="0" frameY="0" frameWidth="1354" frameHeight="683" />
+<SubTexture name="tub left0002" x="4062" y="1366" width="1354" height="683" frameX="0" frameY="0" frameWidth="1354" frameHeight="683" />
+<SubTexture name="tub down0000" x="0" y="2049" width="1354" height="683" frameX="0" frameY="0" frameWidth="1354" frameHeight="683" />
+<SubTexture name="tub down0001" x="1354" y="2049" width="1354" height="683" frameX="0" frameY="0" frameWidth="1354" frameHeight="683" />
+<SubTexture name="tub down0002" x="2708" y="2049" width="1354" height="683" frameX="0" frameY="0" frameWidth="1354" frameHeight="683" />
+<SubTexture name="tub run0000" x="4062" y="2049" width="1354" height="683" frameX="0" frameY="0" frameWidth="1354" frameHeight="683" />
+<SubTexture name="tub run0001" x="0" y="2732" width="1354" height="683" frameX="0" frameY="0" frameWidth="1354" frameHeight="683" />
+<SubTexture name="tub run0002" x="1354" y="2732" width="1354" height="683" frameX="0" frameY="0" frameWidth="1354" frameHeight="683" />
+<SubTexture name="tub run0003" x="2708" y="2732" width="1354" height="683" frameX="0" frameY="0" frameWidth="1354" frameHeight="683" />
+<SubTexture name="tub run0004" x="4062" y="2732" width="1354" height="683" frameX="0" frameY="0" frameWidth="1354" frameHeight="683" />
+</TextureAtlas>

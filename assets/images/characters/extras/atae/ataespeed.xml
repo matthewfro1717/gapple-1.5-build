@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ataespeed.png"><SubTexture name="ataespeed idle0000" x="0" y="0" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed idle0001" x="1204" y="0" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed idle0002" x="2408" y="0" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed idle0003" x="3612" y="0" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed idle0004" x="4816" y="0" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed idle0005" x="0" y="1084" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed idle0006" x="1204" y="1084" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed idle0007" x="2408" y="1084" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed right0000" x="3612" y="1084" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed right0001" x="4816" y="1084" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed right0002" x="0" y="2168" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed right0003" x="1204" y="2168" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed up0000" x="2408" y="2168" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed up0001" x="3612" y="2168" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed up0002" x="4816" y="2168" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed up0003" x="0" y="3252" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed left0000" x="1204" y="3252" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed left0001" x="2408" y="3252" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed left0002" x="3612" y="3252" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed left0003" x="4816" y="3252" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed down0000" x="0" y="4336" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed down0001" x="1204" y="4336" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed down0002" x="2408" y="4336" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed down0003" x="3612" y="4336" width="1204" height="1084" frameX="0" frameY="0" frameWidth="1204" frameHeight="1084" />
+<SubTexture name="ataespeed glitch0000" x="4816" y="4336" width="1833" height="1323" frameX="0" frameY="0" frameWidth="1833" frameHeight="1323" />
+<SubTexture name="ataespeed glitch0001" x="0" y="5659" width="1833" height="1323" frameX="0" frameY="0" frameWidth="1833" frameHeight="1323" />
+<SubTexture name="ataespeed glitch0002" x="1833" y="5659" width="1833" height="1323" frameX="0" frameY="0" frameWidth="1833" frameHeight="1323" />
+<SubTexture name="ataespeed glitch0003" x="3666" y="5659" width="1833" height="1323" frameX="0" frameY="0" frameWidth="1833" frameHeight="1323" />
+</TextureAtlas>
