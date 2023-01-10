@@ -1,0 +1,11 @@
+idle-alt 74 -1
+singRIGHT-alt 0 0
+singDOWN 3 -8
+singLEFT-alt 0 0
+singUP -10 27
+idle 0 0
+singRIGHT -2 14
+singDOWN-alt 0 0
+singUP-alt 0 0
+singLEFT 53 -1
+scream 0 0

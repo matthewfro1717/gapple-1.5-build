@@ -1,0 +1,9 @@
+singDOWN -61 20
+singRIGHTmiss 30 50
+singLEFTmiss 70 90
+singUP 73 360
+idle 0 0
+singRIGHT 10 60
+singDOWNmiss 30 -60
+singUPmiss 180 170
+singLEFT 50 70

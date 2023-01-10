@@ -1,0 +1,6 @@
+danceLeft 150 70
+danceRight 104 75
+singLEFT 270 130
+singDOWN 510 -110
+singUP 200 130
+singRIGHT 80 40

@@ -1,0 +1,8 @@
+idle 0 0
+singLEFT -4 -2
+singDOWN 16 -6
+singUP -10 10
+singRIGHT 6 0
+talk -5 15
+holyshit 0 7
+singSmash 20

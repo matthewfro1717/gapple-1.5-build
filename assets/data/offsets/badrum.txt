@@ -1,0 +1,8 @@
+scare 40 -70
+idle 0 0
+turn 40 -70
+singRIGHT 0 -80
+singDOWN 146 -101
+singLEFT 258 -35
+singUP 210 51
+run 40 -70

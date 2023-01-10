@@ -1,0 +1,7 @@
+idle 0 0
+singLEFT 282 -109
+singDOWN -5 -39
+singUP 100 294
+singRIGHT 13 -136
+boo -37 -126
+hah 38 24

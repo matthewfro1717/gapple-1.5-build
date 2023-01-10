@@ -1,0 +1,8 @@
+idle 0 0
+singLEFT 0 0
+singDOWN 0 0
+singUP 0 0
+singRIGHT 0 0
+sad 8 1
+scared 8 0
+kill 0 1
