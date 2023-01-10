@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="boyfranon.png">
+<SubTexture name="boyfranon idle0000" x="0" y="0" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon right0000" x="404" y="0" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon right0001" x="808" y="0" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon down0000" x="1212" y="0" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon down0001" x="1616" y="0" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon up0000" x="2020" y="0" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon up0001" x="0" y="504" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon left0000" x="404" y="504" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon left0001" x="808" y="504" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon up alt0000" x="1212" y="504" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon up alt0001" x="1616" y="504" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon up alt0002" x="2020" y="504" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon left alt0000" x="0" y="1008" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon left alt0001" x="404" y="1008" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon left alt0002" x="808" y="1008" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon down alt0000" x="1212" y="1008" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon down alt0001" x="1616" y="1008" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon down alt0002" x="2020" y="1008" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon right alt0000" x="0" y="1512" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon right alt0001" x="404" y="1512" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon right alt0002" x="808" y="1512" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon missl0000" x="1212" y="1512" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon missd0000" x="1616" y="1512" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon missu0000" x="2020" y="1512" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon missr0000" x="0" y="2016" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon die0000" x="404" y="2016" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon die0001" x="808" y="2016" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon die0002" x="1212" y="2016" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon die0003" x="1616" y="2016" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon die0004" x="2020" y="2016" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon die0005" x="0" y="2520" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon die0006" x="404" y="2520" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon die0007" x="808" y="2520" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon retry0000" x="1212" y="2520" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon revive0000" x="1616" y="2520" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon revive0001" x="2020" y="2520" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon revive0002" x="0" y="3024" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon revive0003" x="404" y="3024" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon revive0004" x="808" y="3024" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon revive0005" x="1212" y="3024" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon revive0006" x="1616" y="3024" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon revive0007" x="2020" y="3024" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon revive0008" x="0" y="3528" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+<SubTexture name="boyfranon revive0009" x="404" y="3528" width="404" height="504" frameX="0" frameY="0" frameWidth="404" frameHeight="504" />
+</TextureAtlas>
