@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="th1ft.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="th1ft down0000" x="0" y="0" width="606" height="488"/>
+	<SubTexture name="th1ft down0001" x="611" y="0" width="507" height="464" frameX="-47" frameY="-19" frameWidth="606" frameHeight="488"/>
+	<SubTexture name="th1ft down0002" x="1123" y="0" width="500" height="463" frameX="-58" frameY="-24" frameWidth="606" frameHeight="488"/>
+	<SubTexture name="th1ft down0003" x="1628" y="0" width="480" height="470" frameX="-70" frameY="-16" frameWidth="606" frameHeight="488"/>
+	<SubTexture name="th1ft idle0000" x="2113" y="0" width="492" height="698" frameX="-25" frameY="0" frameWidth="533" frameHeight="699"/>
+	<SubTexture name="th1ft idle0001" x="2610" y="0" width="495" height="680" frameX="-22" frameY="-19" frameWidth="533" frameHeight="699"/>
+	<SubTexture name="th1ft idle0002" x="3110" y="0" width="495" height="668" frameX="-23" frameY="-27" frameWidth="533" frameHeight="699"/>
+	<SubTexture name="th1ft idle0003" x="0" y="703" width="533" height="667" frameX="0" frameY="-31" frameWidth="533" frameHeight="699"/>
+	<SubTexture name="th1ft idle0004" x="538" y="703" width="489" height="649" frameX="-26" frameY="-47" frameWidth="533" frameHeight="699"/>
+	<SubTexture name="th1ft left0000" x="1032" y="703" width="533" height="732" frameX="0" frameY="0" frameWidth="541" frameHeight="735"/>
+	<SubTexture name="th1ft left0001" x="1570" y="703" width="528" height="685" frameX="-13" frameY="-48" frameWidth="541" frameHeight="735"/>
+	<SubTexture name="th1ft left0002" x="2103" y="703" width="525" height="677" frameX="-13" frameY="-57" frameWidth="541" frameHeight="735"/>
+	<SubTexture name="th1ft left0003" x="2633" y="703" width="517" height="680" frameX="-19" frameY="-55" frameWidth="541" frameHeight="735"/>
+	<SubTexture name="th1ft right0000" x="3155" y="703" width="545" height="677" frameX="-7" frameY="-35" frameWidth="552" frameHeight="712"/>
+	<SubTexture name="th1ft right0001" x="0" y="1440" width="499" height="704" frameX="0" frameY="-5" frameWidth="552" frameHeight="712"/>
+	<SubTexture name="th1ft right0002" x="504" y="1440" width="499" height="709" frameX="0" frameY="-1" frameWidth="552" frameHeight="712"/>
+	<SubTexture name="th1ft right0003" x="1008" y="1440" width="492" height="710" frameX="-6" frameY="0" frameWidth="552" frameHeight="712"/>
+	<SubTexture name="th1ft up0000" x="1505" y="1440" width="451" height="799" frameX="-20" frameY="0" frameWidth="514" frameHeight="803"/>
+	<SubTexture name="th1ft up0001" x="1961" y="1440" width="485" height="777" frameX="-15" frameY="-20" frameWidth="514" frameHeight="803"/>
+	<SubTexture name="th1ft up0002" x="2451" y="1440" width="503" height="780" frameX="-10" frameY="-23" frameWidth="514" frameHeight="803"/>
+	<SubTexture name="th1ft up0003" x="2959" y="1440" width="514" height="779" frameX="0" frameY="-22" frameWidth="514" frameHeight="803"/>
+</TextureAtlas>

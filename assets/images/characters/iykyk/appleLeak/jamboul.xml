@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jamboul.png"><SubTexture name="jamboul left0000" x="0" y="0" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul left0001" x="1354" y="0" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul left0002" x="2708" y="0" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul left0003" x="4062" y="0" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul left0004" x="5416" y="0" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul left0005" x="0" y="925" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul right0000" x="1354" y="925" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul right0001" x="2708" y="925" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul right0002" x="4062" y="925" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul right0003" x="5416" y="925" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul right0004" x="0" y="1850" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul right0005" x="1354" y="1850" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul down0000" x="2708" y="1850" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul down0001" x="4062" y="1850" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul down0002" x="5416" y="1850" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul down0003" x="0" y="2775" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul up wip0000" x="1354" y="2775" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul up wip0001" x="2708" y="2775" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul up wip0002" x="4062" y="2775" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul down wip0000" x="5416" y="2775" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul down wip0001" x="0" y="3700" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul down wip0002" x="1354" y="3700" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul insane0000" x="2708" y="3700" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul insane0001" x="4062" y="3700" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul insane0002" x="5416" y="3700" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+<SubTexture name="jamboul insane0003" x="0" y="4625" width="1354" height="925" frameX="0" frameY="0" frameWidth="1354" frameHeight="925" />
+</TextureAtlas>
