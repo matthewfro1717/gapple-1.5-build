@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cakebiAssets.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cakebiIdle0000" x="0" y="0" width="959" height="1126" pivotX="460.3" pivotY="526.8"/>
+	<SubTexture name="cakebiIdle0001" x="0" y="0" width="959" height="1126"/>
+	<SubTexture name="cakebiIdle0002" x="959" y="0" width="959" height="1126"/>
+	<SubTexture name="cakebiIdle0003" x="959" y="0" width="959" height="1126"/>
+	<SubTexture name="cakebiIdle0004" x="1918" y="0" width="959" height="1126"/>
+	<SubTexture name="cakebiIdle0005" x="1918" y="0" width="959" height="1126"/>
+	<SubTexture name="cakebiIdle0006" x="2877" y="0" width="959" height="1126"/>
+	<SubTexture name="cakebiIdle0007" x="2877" y="0" width="959" height="1126"/>
+	<SubTexture name="cakebiIdle0008" x="3836" y="0" width="959" height="1126"/>
+	<SubTexture name="cakebiDown0000" x="4795" y="0" width="960" height="1127" pivotX="460.3" pivotY="526.8"/>
+	<SubTexture name="cakebiDown0001" x="4795" y="0" width="960" height="1127"/>
+	<SubTexture name="cakebiDown0002" x="5755" y="0" width="960" height="1127"/>
+	<SubTexture name="cakebiDown0003" x="5755" y="0" width="960" height="1127"/>
+	<SubTexture name="cakebiDown0004" x="6715" y="0" width="960" height="1127"/>
+	<SubTexture name="cakebiDown0005" x="6715" y="0" width="960" height="1127"/>
+	<SubTexture name="cakebiDown0006" x="0" y="1127" width="960" height="1127"/>
+	<SubTexture name="cakebiLeft0000" x="960" y="1127" width="960" height="1127" pivotX="460.3" pivotY="526.8"/>
+	<SubTexture name="cakebiLeft0001" x="960" y="1127" width="960" height="1127"/>
+	<SubTexture name="cakebiLeft0002" x="1920" y="1127" width="960" height="1127"/>
+	<SubTexture name="cakebiLeft0003" x="1920" y="1127" width="960" height="1127"/>
+	<SubTexture name="cakebiLeft0004" x="2880" y="1127" width="960" height="1127"/>
+	<SubTexture name="cakebiLeft0005" x="2880" y="1127" width="960" height="1127"/>
+	<SubTexture name="cakebiLeft0006" x="3840" y="1127" width="960" height="1127"/>
+	<SubTexture name="cakebiRight0000" x="4800" y="1127" width="960" height="1127" pivotX="460.3" pivotY="526.8"/>
+	<SubTexture name="cakebiRight0001" x="4800" y="1127" width="960" height="1127"/>
+	<SubTexture name="cakebiRight0002" x="5760" y="1127" width="960" height="1127"/>
+	<SubTexture name="cakebiRight0003" x="5760" y="1127" width="960" height="1127"/>
+	<SubTexture name="cakebiRight0004" x="6720" y="1127" width="960" height="1127"/>
+	<SubTexture name="cakebiRight0005" x="6720" y="1127" width="960" height="1127"/>
+	<SubTexture name="cakebiRight0006" x="0" y="2254" width="960" height="1127"/>
+	<SubTexture name="cakebiUp0000" x="960" y="2254" width="959" height="1127" pivotX="460.3" pivotY="526.8"/>
+	<SubTexture name="cakebiUp0001" x="960" y="2254" width="959" height="1127"/>
+	<SubTexture name="cakebiUp0002" x="1919" y="2254" width="959" height="1127"/>
+	<SubTexture name="cakebiUp0003" x="1919" y="2254" width="959" height="1127"/>
+	<SubTexture name="cakebiUp0004" x="2878" y="2254" width="959" height="1127"/>
+	<SubTexture name="cakebiUp0005" x="2878" y="2254" width="959" height="1127"/>
+	<SubTexture name="cakebiUp0006" x="3837" y="2254" width="959" height="1127"/>
+</TextureAtlas>

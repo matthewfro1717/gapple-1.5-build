@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Fatys Bambi sprites.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fat bambi Idle0000" x="0" y="0" width="336" height="414" frameX="0" frameY="0" frameWidth="336" frameHeight="415"/>
+	<SubTexture name="Fat bambi Idle0001" x="0" y="0" width="336" height="414" frameX="0" frameY="0" frameWidth="336" frameHeight="415"/>
+	<SubTexture name="Fat bambi Idle0002" x="336" y="0" width="305" height="386" frameX="-30" frameY="-29" frameWidth="336" frameHeight="415"/>
+	<SubTexture name="Fat bambi Idle0003" x="336" y="0" width="305" height="386" frameX="-30" frameY="-29" frameWidth="336" frameHeight="415"/>
+	<SubTexture name="Fat bambi Idle0004" x="641" y="0" width="282" height="381" frameX="-51" frameY="-34" frameWidth="336" frameHeight="415"/>
+	<SubTexture name="Fat bambi Idle0005" x="641" y="0" width="282" height="381" frameX="-51" frameY="-34" frameWidth="336" frameHeight="415"/>
+	<SubTexture name="Fat bambi Idle0006" x="923" y="0" width="261" height="382" frameX="-68" frameY="-31" frameWidth="336" frameHeight="415"/>
+	<SubTexture name="Fat bambi Idle0007" x="923" y="0" width="261" height="382" frameX="-68" frameY="-31" frameWidth="336" frameHeight="415"/>
+	<SubTexture name="Fat bambi Idle0008" x="1184" y="0" width="265" height="391" frameX="-62" frameY="-22" frameWidth="336" frameHeight="415"/>
+	<SubTexture name="Fat bambi Idle0009" x="1184" y="0" width="265" height="391" frameX="-62" frameY="-22" frameWidth="336" frameHeight="415"/>
+	<SubTexture name="Fat bambi Idle0010" x="1449" y="0" width="272" height="396" frameX="-56" frameY="-17" frameWidth="336" frameHeight="415"/>
+	<SubTexture name="Fat bambi Idle0011" x="1449" y="0" width="272" height="396" frameX="-56" frameY="-17" frameWidth="336" frameHeight="415"/>
+	<SubTexture name="Fat bambi Idle0012" x="1449" y="0" width="272" height="396" frameX="-56" frameY="-17" frameWidth="336" frameHeight="415"/>
+	<SubTexture name="Fat bambi Idle0013" x="1449" y="0" width="272" height="396" frameX="-56" frameY="-17" frameWidth="336" frameHeight="415"/>
+	<SubTexture name="Fat bambi note down0000" x="0" y="414" width="379" height="347" frameX="0" frameY="-32" frameWidth="379" frameHeight="379"/>
+	<SubTexture name="Fat bambi note down0001" x="0" y="414" width="379" height="347" frameX="0" frameY="-32" frameWidth="379" frameHeight="379"/>
+	<SubTexture name="Fat bambi note down0002" x="379" y="414" width="374" height="358" frameX="-2" frameY="-21" frameWidth="379" frameHeight="379"/>
+	<SubTexture name="Fat bambi note down0003" x="379" y="414" width="374" height="358" frameX="-2" frameY="-21" frameWidth="379" frameHeight="379"/>
+	<SubTexture name="Fat bambi note down0004" x="753" y="414" width="345" height="375" frameX="-16" frameY="-4" frameWidth="379" frameHeight="379"/>
+	<SubTexture name="Fat bambi note down0005" x="753" y="414" width="345" height="375" frameX="-16" frameY="-4" frameWidth="379" frameHeight="379"/>
+	<SubTexture name="Fat bambi note down0006" x="1098" y="414" width="338" height="379" frameX="-19" frameY="0" frameWidth="379" frameHeight="379"/>
+	<SubTexture name="Fat bambi note down0007" x="1098" y="414" width="338" height="379" frameX="-19" frameY="0" frameWidth="379" frameHeight="379"/>
+	<SubTexture name="Fat bambi note down0008" x="1098" y="414" width="338" height="379" frameX="-19" frameY="0" frameWidth="379" frameHeight="379"/>
+	<SubTexture name="Fat bambi note down0009" x="1098" y="414" width="338" height="379" frameX="-19" frameY="0" frameWidth="379" frameHeight="379"/>
+	<SubTexture name="Fat bambi note down0010" x="1098" y="414" width="338" height="379" frameX="-19" frameY="0" frameWidth="379" frameHeight="379"/>
+	<SubTexture name="Fat bambi note down0011" x="1098" y="414" width="338" height="379" frameX="-19" frameY="0" frameWidth="379" frameHeight="379"/>
+	<SubTexture name="Fat bambi note down0012" x="1098" y="414" width="338" height="379" frameX="-19" frameY="0" frameWidth="379" frameHeight="379"/>
+	<SubTexture name="Fat bambi note down0013" x="1098" y="414" width="338" height="379" frameX="-19" frameY="0" frameWidth="379" frameHeight="379"/>
+	<SubTexture name="Fat bambi note left0000" x="1436" y="414" width="372" height="452" frameX="0" frameY="0" frameWidth="375" frameHeight="452"/>
+	<SubTexture name="Fat bambi note left0001" x="1436" y="414" width="372" height="452" frameX="0" frameY="0" frameWidth="375" frameHeight="452"/>
+	<SubTexture name="Fat bambi note left0002" x="0" y="866" width="369" height="448" frameX="-3" frameY="-4" frameWidth="375" frameHeight="452"/>
+	<SubTexture name="Fat bambi note left0003" x="0" y="866" width="369" height="448" frameX="-3" frameY="-4" frameWidth="375" frameHeight="452"/>
+	<SubTexture name="Fat bambi note left0004" x="369" y="866" width="356" height="424" frameX="-18" frameY="-28" frameWidth="375" frameHeight="452"/>
+	<SubTexture name="Fat bambi note left0005" x="369" y="866" width="356" height="424" frameX="-18" frameY="-28" frameWidth="375" frameHeight="452"/>
+	<SubTexture name="Fat bambi note left0006" x="725" y="866" width="354" height="426" frameX="-21" frameY="-26" frameWidth="375" frameHeight="452"/>
+	<SubTexture name="Fat bambi note left0007" x="725" y="866" width="354" height="426" frameX="-21" frameY="-26" frameWidth="375" frameHeight="452"/>
+	<SubTexture name="Fat bambi note left0008" x="725" y="866" width="354" height="426" frameX="-21" frameY="-26" frameWidth="375" frameHeight="452"/>
+	<SubTexture name="Fat bambi note left0009" x="725" y="866" width="354" height="426" frameX="-21" frameY="-26" frameWidth="375" frameHeight="452"/>
+	<SubTexture name="Fat bambi note left0010" x="725" y="866" width="354" height="426" frameX="-21" frameY="-26" frameWidth="375" frameHeight="452"/>
+	<SubTexture name="Fat bambi note left0011" x="725" y="866" width="354" height="426" frameX="-21" frameY="-26" frameWidth="375" frameHeight="452"/>
+	<SubTexture name="Fat bambi note left0012" x="725" y="866" width="354" height="426" frameX="-21" frameY="-26" frameWidth="375" frameHeight="452"/>
+	<SubTexture name="Fat bambi note left0013" x="725" y="866" width="354" height="426" frameX="-21" frameY="-26" frameWidth="375" frameHeight="452"/>
+	<SubTexture name="Fat bambi note right0000" x="1079" y="866" width="399" height="433" frameX="-3" frameY="0" frameWidth="402" frameHeight="444"/>
+	<SubTexture name="Fat bambi note right0001" x="1079" y="866" width="399" height="433" frameX="-3" frameY="0" frameWidth="402" frameHeight="444"/>
+	<SubTexture name="Fat bambi note right0002" x="1478" y="866" width="393" height="434" frameX="-3" frameY="-1" frameWidth="402" frameHeight="444"/>
+	<SubTexture name="Fat bambi note right0003" x="1478" y="866" width="393" height="434" frameX="-3" frameY="-1" frameWidth="402" frameHeight="444"/>
+	<SubTexture name="Fat bambi note right0004" x="0" y="1314" width="355" height="438" frameX="0" frameY="-4" frameWidth="402" frameHeight="444"/>
+	<SubTexture name="Fat bambi note right0005" x="0" y="1314" width="355" height="438" frameX="0" frameY="-4" frameWidth="402" frameHeight="444"/>
+	<SubTexture name="Fat bambi note right0006" x="355" y="1314" width="359" height="440" frameX="0" frameY="-4" frameWidth="402" frameHeight="444"/>
+	<SubTexture name="Fat bambi note right0007" x="355" y="1314" width="359" height="440" frameX="0" frameY="-4" frameWidth="402" frameHeight="444"/>
+	<SubTexture name="Fat bambi note right0008" x="355" y="1314" width="359" height="440" frameX="0" frameY="-4" frameWidth="402" frameHeight="444"/>
+	<SubTexture name="Fat bambi note right0009" x="355" y="1314" width="359" height="440" frameX="0" frameY="-4" frameWidth="402" frameHeight="444"/>
+	<SubTexture name="Fat bambi note right0010" x="355" y="1314" width="359" height="440" frameX="0" frameY="-4" frameWidth="402" frameHeight="444"/>
+	<SubTexture name="Fat bambi note right0011" x="355" y="1314" width="359" height="440" frameX="0" frameY="-4" frameWidth="402" frameHeight="444"/>
+	<SubTexture name="Fat bambi note right0012" x="355" y="1314" width="359" height="440" frameX="0" frameY="-4" frameWidth="402" frameHeight="444"/>
+	<SubTexture name="Fat bambi note right0013" x="355" y="1314" width="359" height="440" frameX="0" frameY="-4" frameWidth="402" frameHeight="444"/>
+	<SubTexture name="Fat bambi note up0000" x="714" y="1314" width="322" height="560" frameX="-5" frameY="-7" frameWidth="337" frameHeight="571"/>
+	<SubTexture name="Fat bambi note up0001" x="714" y="1314" width="322" height="560" frameX="-5" frameY="-7" frameWidth="337" frameHeight="571"/>
+	<SubTexture name="Fat bambi note up0002" x="1036" y="1314" width="319" height="568" frameX="-9" frameY="0" frameWidth="337" frameHeight="571"/>
+	<SubTexture name="Fat bambi note up0003" x="1036" y="1314" width="319" height="568" frameX="-9" frameY="0" frameWidth="337" frameHeight="571"/>
+	<SubTexture name="Fat bambi note up0004" x="1355" y="1314" width="332" height="503" frameX="-5" frameY="-68" frameWidth="337" frameHeight="571"/>
+	<SubTexture name="Fat bambi note up0005" x="1355" y="1314" width="332" height="503" frameX="-5" frameY="-68" frameWidth="337" frameHeight="571"/>
+	<SubTexture name="Fat bambi note up0006" x="1687" y="1314" width="336" height="493" frameX="0" frameY="-78" frameWidth="337" frameHeight="571"/>
+	<SubTexture name="Fat bambi note up0007" x="1687" y="1314" width="336" height="493" frameX="0" frameY="-78" frameWidth="337" frameHeight="571"/>
+	<SubTexture name="Fat bambi note up0008" x="1687" y="1314" width="336" height="493" frameX="0" frameY="-78" frameWidth="337" frameHeight="571"/>
+	<SubTexture name="Fat bambi note up0009" x="1687" y="1314" width="336" height="493" frameX="0" frameY="-78" frameWidth="337" frameHeight="571"/>
+	<SubTexture name="Fat bambi note up0010" x="1687" y="1314" width="336" height="493" frameX="0" frameY="-78" frameWidth="337" frameHeight="571"/>
+	<SubTexture name="Fat bambi note up0011" x="1687" y="1314" width="336" height="493" frameX="0" frameY="-78" frameWidth="337" frameHeight="571"/>
+	<SubTexture name="Fat bambi note up0012" x="1687" y="1314" width="336" height="493" frameX="0" frameY="-78" frameWidth="337" frameHeight="571"/>
+	<SubTexture name="Fat bambi note up0013" x="1687" y="1314" width="336" height="493" frameX="0" frameY="-78" frameWidth="337" frameHeight="571"/>
+</TextureAtlas>

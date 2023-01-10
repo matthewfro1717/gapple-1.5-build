@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tricky sprites.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tricky phase 6 Idle0000" x="0" y="0" width="618" height="547"/>
+	<SubTexture name="Tricky phase 6 Idle0001" x="0" y="0" width="618" height="547"/>
+	<SubTexture name="Tricky phase 6 Idle0002" x="618" y="0" width="618" height="547"/>
+	<SubTexture name="Tricky phase 6 Idle0003" x="618" y="0" width="618" height="547"/>
+	<SubTexture name="Tricky phase 6 Idle0004" x="1236" y="0" width="618" height="547"/>
+	<SubTexture name="Tricky phase 6 Idle0005" x="1236" y="0" width="618" height="547"/>
+	<SubTexture name="Tricky phase 6 Idle0006" x="1854" y="0" width="618" height="547"/>
+	<SubTexture name="Tricky phase 6 Idle0007" x="1854" y="0" width="618" height="547"/>
+	<SubTexture name="Tricky phase 6 Idle0008" x="2472" y="0" width="618" height="547"/>
+	<SubTexture name="Tricky phase 6 Idle0009" x="2472" y="0" width="618" height="547"/>
+	<SubTexture name="Tricky phase 6 Idle0010" x="3090" y="0" width="618" height="547"/>
+	<SubTexture name="Tricky phase 6 Idle0011" x="3090" y="0" width="618" height="547"/>
+	<SubTexture name="Tricky phase 6 Idle0012" x="3090" y="0" width="618" height="547"/>
+	<SubTexture name="Tricky phase 6 Idle0013" x="3090" y="0" width="618" height="547"/>
+	<SubTexture name="Tricky phase 6 note down0000" x="0" y="547" width="668" height="528" frameX="0" frameY="-25" frameWidth="668" frameHeight="553"/>
+	<SubTexture name="Tricky phase 6 note down0001" x="0" y="547" width="668" height="528" frameX="0" frameY="-25" frameWidth="668" frameHeight="553"/>
+	<SubTexture name="Tricky phase 6 note down0002" x="668" y="547" width="657" height="534" frameX="-5" frameY="-19" frameWidth="668" frameHeight="553"/>
+	<SubTexture name="Tricky phase 6 note down0003" x="668" y="547" width="657" height="534" frameX="-5" frameY="-19" frameWidth="668" frameHeight="553"/>
+	<SubTexture name="Tricky phase 6 note down0004" x="1325" y="547" width="630" height="548" frameX="-19" frameY="-5" frameWidth="668" frameHeight="553"/>
+	<SubTexture name="Tricky phase 6 note down0005" x="1325" y="547" width="630" height="548" frameX="-19" frameY="-5" frameWidth="668" frameHeight="553"/>
+	<SubTexture name="Tricky phase 6 note down0006" x="1955" y="547" width="618" height="553" frameX="-25" frameY="0" frameWidth="668" frameHeight="553"/>
+	<SubTexture name="Tricky phase 6 note down0007" x="1955" y="547" width="618" height="553" frameX="-25" frameY="0" frameWidth="668" frameHeight="553"/>
+	<SubTexture name="Tricky phase 6 note down0008" x="1955" y="547" width="618" height="553" frameX="-25" frameY="0" frameWidth="668" frameHeight="553"/>
+	<SubTexture name="Tricky phase 6 note down0009" x="1955" y="547" width="618" height="553" frameX="-25" frameY="0" frameWidth="668" frameHeight="553"/>
+	<SubTexture name="Tricky phase 6 note down0010" x="1955" y="547" width="618" height="553" frameX="-25" frameY="0" frameWidth="668" frameHeight="553"/>
+	<SubTexture name="Tricky phase 6 note down0011" x="1955" y="547" width="618" height="553" frameX="-25" frameY="0" frameWidth="668" frameHeight="553"/>
+	<SubTexture name="Tricky phase 6 note down0012" x="1955" y="547" width="618" height="553" frameX="-25" frameY="0" frameWidth="668" frameHeight="553"/>
+	<SubTexture name="Tricky phase 6 note down0013" x="1955" y="547" width="618" height="553" frameX="-25" frameY="0" frameWidth="668" frameHeight="553"/>
+	<SubTexture name="Tricky phase 6 note left0000" x="2573" y="547" width="620" height="551" frameX="0" frameY="0" frameWidth="737" frameHeight="551"/>
+	<SubTexture name="Tricky phase 6 note left0001" x="2573" y="547" width="620" height="551" frameX="0" frameY="0" frameWidth="737" frameHeight="551"/>
+	<SubTexture name="Tricky phase 6 note left0002" x="3193" y="547" width="619" height="551" frameX="-18" frameY="0" frameWidth="737" frameHeight="551"/>
+	<SubTexture name="Tricky phase 6 note left0003" x="3193" y="547" width="619" height="551" frameX="-18" frameY="0" frameWidth="737" frameHeight="551"/>
+	<SubTexture name="Tricky phase 6 note left0004" x="0" y="1100" width="619" height="551" frameX="-101" frameY="0" frameWidth="737" frameHeight="551"/>
+	<SubTexture name="Tricky phase 6 note left0005" x="0" y="1100" width="619" height="551" frameX="-101" frameY="0" frameWidth="737" frameHeight="551"/>
+	<SubTexture name="Tricky phase 6 note left0006" x="619" y="1100" width="618" height="551" frameX="-119" frameY="0" frameWidth="737" frameHeight="551"/>
+	<SubTexture name="Tricky phase 6 note left0007" x="619" y="1100" width="618" height="551" frameX="-119" frameY="0" frameWidth="737" frameHeight="551"/>
+	<SubTexture name="Tricky phase 6 note left0008" x="619" y="1100" width="618" height="551" frameX="-119" frameY="0" frameWidth="737" frameHeight="551"/>
+	<SubTexture name="Tricky phase 6 note left0009" x="619" y="1100" width="618" height="551" frameX="-119" frameY="0" frameWidth="737" frameHeight="551"/>
+	<SubTexture name="Tricky phase 6 note left0010" x="619" y="1100" width="618" height="551" frameX="-119" frameY="0" frameWidth="737" frameHeight="551"/>
+	<SubTexture name="Tricky phase 6 note left0011" x="619" y="1100" width="618" height="551" frameX="-119" frameY="0" frameWidth="737" frameHeight="551"/>
+	<SubTexture name="Tricky phase 6 note left0012" x="619" y="1100" width="618" height="551" frameX="-119" frameY="0" frameWidth="737" frameHeight="551"/>
+	<SubTexture name="Tricky phase 6 note left0013" x="619" y="1100" width="618" height="551" frameX="-119" frameY="0" frameWidth="737" frameHeight="551"/>
+	<SubTexture name="Tricky phase 6 note right0000" x="1237" y="1100" width="619" height="547" frameX="-103" frameY="0" frameWidth="722" frameHeight="548"/>
+	<SubTexture name="Tricky phase 6 note right0001" x="1237" y="1100" width="619" height="547" frameX="-103" frameY="0" frameWidth="722" frameHeight="548"/>
+	<SubTexture name="Tricky phase 6 note right0002" x="1856" y="1100" width="619" height="547" frameX="-82" frameY="0" frameWidth="722" frameHeight="548"/>
+	<SubTexture name="Tricky phase 6 note right0003" x="1856" y="1100" width="619" height="547" frameX="-82" frameY="0" frameWidth="722" frameHeight="548"/>
+	<SubTexture name="Tricky phase 6 note right0004" x="2475" y="1100" width="619" height="547" frameX="-8" frameY="0" frameWidth="722" frameHeight="548"/>
+	<SubTexture name="Tricky phase 6 note right0005" x="2475" y="1100" width="619" height="547" frameX="-8" frameY="0" frameWidth="722" frameHeight="548"/>
+	<SubTexture name="Tricky phase 6 note right0006" x="3094" y="1100" width="618" height="548" frameX="0" frameY="0" frameWidth="722" frameHeight="548"/>
+	<SubTexture name="Tricky phase 6 note right0007" x="3094" y="1100" width="618" height="548" frameX="0" frameY="0" frameWidth="722" frameHeight="548"/>
+	<SubTexture name="Tricky phase 6 note right0008" x="3094" y="1100" width="618" height="548" frameX="0" frameY="0" frameWidth="722" frameHeight="548"/>
+	<SubTexture name="Tricky phase 6 note right0009" x="3094" y="1100" width="618" height="548" frameX="0" frameY="0" frameWidth="722" frameHeight="548"/>
+	<SubTexture name="Tricky phase 6 note right0010" x="3094" y="1100" width="618" height="548" frameX="0" frameY="0" frameWidth="722" frameHeight="548"/>
+	<SubTexture name="Tricky phase 6 note right0011" x="3094" y="1100" width="618" height="548" frameX="0" frameY="0" frameWidth="722" frameHeight="548"/>
+	<SubTexture name="Tricky phase 6 note right0012" x="3094" y="1100" width="618" height="548" frameX="0" frameY="0" frameWidth="722" frameHeight="548"/>
+	<SubTexture name="Tricky phase 6 note right0013" x="3094" y="1100" width="618" height="548" frameX="0" frameY="0" frameWidth="722" frameHeight="548"/>
+	<SubTexture name="Tricky phase 6 note up0000" x="0" y="1651" width="618" height="608"/>
+	<SubTexture name="Tricky phase 6 note up0001" x="0" y="1651" width="618" height="608"/>
+	<SubTexture name="Tricky phase 6 note up0002" x="618" y="1651" width="618" height="600" frameX="0" frameY="-8" frameWidth="618" frameHeight="608"/>
+	<SubTexture name="Tricky phase 6 note up0003" x="618" y="1651" width="618" height="600" frameX="0" frameY="-8" frameWidth="618" frameHeight="608"/>
+	<SubTexture name="Tricky phase 6 note up0004" x="1236" y="1651" width="618" height="558" frameX="0" frameY="-49" frameWidth="618" frameHeight="608"/>
+	<SubTexture name="Tricky phase 6 note up0005" x="1236" y="1651" width="618" height="558" frameX="0" frameY="-49" frameWidth="618" frameHeight="608"/>
+	<SubTexture name="Tricky phase 6 note up0006" x="1854" y="1651" width="618" height="550" frameX="0" frameY="-57" frameWidth="618" frameHeight="608"/>
+	<SubTexture name="Tricky phase 6 note up0007" x="1854" y="1651" width="618" height="550" frameX="0" frameY="-57" frameWidth="618" frameHeight="608"/>
+	<SubTexture name="Tricky phase 6 note up0008" x="1854" y="1651" width="618" height="550" frameX="0" frameY="-57" frameWidth="618" frameHeight="608"/>
+	<SubTexture name="Tricky phase 6 note up0009" x="1854" y="1651" width="618" height="550" frameX="0" frameY="-57" frameWidth="618" frameHeight="608"/>
+	<SubTexture name="Tricky phase 6 note up0010" x="1854" y="1651" width="618" height="550" frameX="0" frameY="-57" frameWidth="618" frameHeight="608"/>
+	<SubTexture name="Tricky phase 6 note up0011" x="1854" y="1651" width="618" height="550" frameX="0" frameY="-57" frameWidth="618" frameHeight="608"/>
+	<SubTexture name="Tricky phase 6 note up0012" x="1854" y="1651" width="618" height="550" frameX="0" frameY="-57" frameWidth="618" frameHeight="608"/>
+	<SubTexture name="Tricky phase 6 note up0013" x="1854" y="1651" width="618" height="550" frameX="0" frameY="-57" frameWidth="618" frameHeight="608"/>
+	<SubTexture name="Tricky phase 6 scream0000" x="2472" y="1651" width="618" height="579"/>
+	<SubTexture name="Tricky phase 6 scream0001" x="3090" y="1651" width="618" height="578" frameX="0" frameY="-1" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0002" x="0" y="2259" width="618" height="547" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0003" x="618" y="2259" width="618" height="547" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0004" x="1236" y="2259" width="618" height="547" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0005" x="1854" y="2259" width="618" height="547" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0006" x="2472" y="2259" width="618" height="548" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0007" x="3090" y="2259" width="618" height="548" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0008" x="2472" y="2259" width="618" height="548" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0009" x="3090" y="2259" width="618" height="548" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0010" x="2472" y="2259" width="618" height="548" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0011" x="3090" y="2259" width="618" height="548" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0012" x="2472" y="2259" width="618" height="548" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0013" x="3090" y="2259" width="618" height="548" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0014" x="2472" y="2259" width="618" height="548" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0015" x="3090" y="2259" width="618" height="548" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0016" x="2472" y="2259" width="618" height="548" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0017" x="3090" y="2259" width="618" height="548" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0018" x="2472" y="2259" width="618" height="548" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0019" x="3090" y="2259" width="618" height="548" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0020" x="2472" y="2259" width="618" height="548" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0021" x="3090" y="2259" width="618" height="548" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0022" x="2472" y="2259" width="618" height="548" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0023" x="3090" y="2259" width="618" height="548" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0024" x="2472" y="2259" width="618" height="548" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0025" x="3090" y="2259" width="618" height="548" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0026" x="2472" y="2259" width="618" height="548" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+	<SubTexture name="Tricky phase 6 scream0027" x="3090" y="2259" width="618" height="548" frameX="0" frameY="-31" frameWidth="618" frameHeight="579"/>
+</TextureAtlas>
