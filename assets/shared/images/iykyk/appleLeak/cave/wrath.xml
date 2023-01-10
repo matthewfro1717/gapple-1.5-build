@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wrath.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wrath0000" x="0" y="0" width="798" height="740"/>
+	<SubTexture name="wrath0001" x="0" y="0" width="798" height="740"/>
+	<SubTexture name="wrath0002" x="803" y="0" width="798" height="740"/>
+	<SubTexture name="wrath0003" x="803" y="0" width="798" height="740"/>
+	<SubTexture name="wrath0004" x="0" y="745" width="798" height="740"/>
+	<SubTexture name="wrath0005" x="0" y="745" width="798" height="740"/>
+	<SubTexture name="wrath0006" x="0" y="745" width="798" height="740"/>
+	<SubTexture name="wrath0007" x="0" y="745" width="798" height="740"/>
+	<SubTexture name="wrath0008" x="0" y="745" width="798" height="740"/>
+	<SubTexture name="wrath0009" x="0" y="745" width="798" height="740"/>
+	<SubTexture name="wrath0010" x="0" y="745" width="798" height="740"/>
+	<SubTexture name="wrath0011" x="0" y="745" width="798" height="740"/>
+	<SubTexture name="wrath0012" x="0" y="745" width="798" height="740"/>
+	<SubTexture name="wrath0013" x="0" y="745" width="798" height="740"/>
+	<SubTexture name="wrath0014" x="0" y="745" width="798" height="740"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="norman.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="2" y="2" width="1125" height="783" frameX="-19" frameY="-24" frameWidth="1237" frameHeight="808"/>
+	<SubTexture name="idle0001" x="2" y="2" width="1125" height="783" frameX="-19" frameY="-24" frameWidth="1237" frameHeight="808"/>
+	<SubTexture name="idle0002" x="1137" y="2" width="1148" height="796" frameX="-13" frameY="-11" frameWidth="1237" frameHeight="808"/>
+	<SubTexture name="idle0003" x="1137" y="2" width="1148" height="796" frameX="-13" frameY="-11" frameWidth="1237" frameHeight="808"/>
+	<SubTexture name="idle0004" x="2295" y="2" width="1198" height="804" frameX="0" frameY="-4" frameWidth="1237" frameHeight="808"/>
+	<SubTexture name="idle0005" x="2295" y="2" width="1198" height="804" frameX="0" frameY="-4" frameWidth="1237" frameHeight="808"/>
+	<SubTexture name="idle0006" x="2" y="816" width="1219" height="808" frameX="-18" frameY="0" frameWidth="1237" frameHeight="808"/>
+	<SubTexture name="idle0007" x="2" y="816" width="1219" height="808" frameX="-18" frameY="0" frameWidth="1237" frameHeight="808"/>
+</TextureAtlas>

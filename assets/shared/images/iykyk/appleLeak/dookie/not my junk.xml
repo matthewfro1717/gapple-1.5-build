@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="not my junk.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bandu0000" x="0" y="0" width="750" height="946"/>
+	<SubTexture name="disruption0000" x="750" y="0" width="621" height="747"/>
+	<SubTexture name="expunged0000" x="0" y="946" width="932" height="1033"/>
+</TextureAtlas>

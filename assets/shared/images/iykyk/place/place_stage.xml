@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="place_stage.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IDLE0000" x="10" y="10" width="99" height="75"/>
+	<SubTexture name="IDLE0001" x="10" y="10" width="99" height="75"/>
+	<SubTexture name="IDLE0002" x="10" y="10" width="99" height="75"/>
+	<SubTexture name="IDLE0003" x="10" y="10" width="99" height="75"/>
+	<SubTexture name="IDLE0004" x="10" y="95" width="99" height="75"/>
+	<SubTexture name="IDLE0005" x="10" y="95" width="99" height="75"/>
+	<SubTexture name="IDLE0006" x="10" y="95" width="99" height="75"/>
+	<SubTexture name="IDLE0007" x="10" y="95" width="99" height="75"/>
+	<SubTexture name="IDLE0008" x="10" y="180" width="99" height="75"/>
+	<SubTexture name="IDLE0009" x="10" y="180" width="99" height="75"/>
+	<SubTexture name="IDLE0010" x="10" y="180" width="99" height="75"/>
+	<SubTexture name="IDLE0011" x="10" y="180" width="99" height="75"/>
+	<SubTexture name="IDLE0012" x="10" y="265" width="99" height="75"/>
+	<SubTexture name="IDLE0013" x="10" y="265" width="99" height="75"/>
+	<SubTexture name="IDLE0014" x="10" y="265" width="99" height="75"/>
+	<SubTexture name="IDLE0015" x="10" y="265" width="99" height="75"/>
+	<SubTexture name="IDLE0016" x="10" y="350" width="99" height="75"/>
+	<SubTexture name="IDLE0017" x="10" y="350" width="99" height="75"/>
+	<SubTexture name="IDLE0018" x="10" y="350" width="99" height="75"/>
+	<SubTexture name="IDLE0019" x="10" y="350" width="99" height="75"/>
+	<SubTexture name="IDLE0020" x="119" y="10" width="99" height="75"/>
+	<SubTexture name="IDLE0021" x="119" y="10" width="99" height="75"/>
+	<SubTexture name="IDLE0022" x="119" y="10" width="99" height="75"/>
+	<SubTexture name="IDLE0023" x="119" y="10" width="99" height="75"/>
+	<SubTexture name="IDLE0024" x="119" y="95" width="99" height="75"/>
+	<SubTexture name="IDLE0025" x="119" y="95" width="99" height="75"/>
+	<SubTexture name="IDLE0026" x="119" y="95" width="99" height="75"/>
+	<SubTexture name="IDLE0027" x="119" y="95" width="99" height="75"/>
+	<SubTexture name="IDLE0028" x="119" y="180" width="99" height="75"/>
+	<SubTexture name="IDLE0029" x="119" y="180" width="99" height="75"/>
+	<SubTexture name="IDLE0030" x="119" y="180" width="99" height="75"/>
+	<SubTexture name="IDLE0031" x="119" y="180" width="99" height="75"/>
+	<SubTexture name="IDLE0032" x="119" y="265" width="99" height="75"/>
+	<SubTexture name="IDLE0033" x="119" y="265" width="99" height="75"/>
+	<SubTexture name="IDLE0034" x="119" y="265" width="99" height="75"/>
+	<SubTexture name="IDLE0035" x="119" y="265" width="99" height="75"/>
+</TextureAtlas>

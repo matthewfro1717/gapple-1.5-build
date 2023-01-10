@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dooodoo.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="doodoo0000" x="0" y="0" width="574" height="581" frameX="-48" frameY="-6" frameWidth="622" frameHeight="592"/>
+	<SubTexture name="doodoo0001" x="574" y="0" width="598" height="587" frameX="-23" frameY="0" frameWidth="622" frameHeight="592"/>
+	<SubTexture name="doodoo0002" x="1172" y="0" width="612" height="581" frameX="0" frameY="-9" frameWidth="622" frameHeight="592"/>
+	<SubTexture name="doodoo0003" x="0" y="587" width="595" height="583" frameX="-21" frameY="-9" frameWidth="622" frameHeight="592"/>
+</TextureAtlas>

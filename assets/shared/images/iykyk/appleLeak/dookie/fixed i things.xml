@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fixed_i_things.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 10000" x="2" y="2" width="421" height="640" frameX="-667" frameY="-142" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10001" x="2" y="2" width="421" height="640" frameX="-667" frameY="-142" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10002" x="433" y="2" width="1421" height="820" frameX="-180" frameY="-45" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10003" x="433" y="2" width="1421" height="820" frameX="-180" frameY="-45" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10004" x="433" y="2" width="1421" height="820" frameX="-180" frameY="-45" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10005" x="433" y="2" width="1421" height="820" frameX="-180" frameY="-45" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10006" x="2" y="2" width="421" height="640" frameX="-667" frameY="-142" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10007" x="2" y="2" width="421" height="640" frameX="-667" frameY="-142" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10008" x="2" y="2" width="421" height="640" frameX="-667" frameY="-142" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10009" x="2" y="2" width="421" height="640" frameX="-667" frameY="-142" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10010" x="433" y="2" width="1421" height="820" frameX="-180" frameY="-45" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10011" x="433" y="2" width="1421" height="820" frameX="-180" frameY="-45" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10012" x="433" y="2" width="1421" height="820" frameX="-180" frameY="-45" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10013" x="433" y="2" width="1421" height="820" frameX="-180" frameY="-45" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10014" x="2" y="2" width="421" height="640" frameX="-667" frameY="-142" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10015" x="2" y="2" width="421" height="640" frameX="-667" frameY="-142" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10016" x="2" y="2" width="421" height="640" frameX="-667" frameY="-142" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10017" x="1864" y="2" width="1591" height="786" frameX="0" frameY="-48" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10018" x="3465" y="2" width="1518" height="865" frameX="-83" frameY="0" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10019" x="433" y="2" width="1421" height="820" frameX="-180" frameY="-45" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10020" x="433" y="2" width="1421" height="820" frameX="-180" frameY="-45" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10021" x="1864" y="2" width="1591" height="786" frameX="0" frameY="-48" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10022" x="3465" y="2" width="1518" height="865" frameX="-83" frameY="0" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10023" x="433" y="2" width="1421" height="820" frameX="-180" frameY="-45" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10024" x="433" y="2" width="1421" height="820" frameX="-180" frameY="-45" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10025" x="1864" y="2" width="1591" height="786" frameX="0" frameY="-48" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10026" x="3465" y="2" width="1518" height="865" frameX="-83" frameY="0" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10027" x="433" y="2" width="1421" height="820" frameX="-180" frameY="-45" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10028" x="4993" y="2" width="1412" height="845" frameX="-166" frameY="-23" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10029" x="6415" y="2" width="1390" height="836" frameX="-166" frameY="-29" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10030" x="6415" y="2" width="1390" height="836" frameX="-166" frameY="-29" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10031" x="2" y="877" width="1390" height="836" frameX="-166" frameY="-29" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10032" x="2" y="877" width="1390" height="836" frameX="-166" frameY="-29" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10033" x="1402" y="877" width="1390" height="836" frameX="-166" frameY="-29" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10034" x="1402" y="877" width="1390" height="836" frameX="-166" frameY="-29" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10035" x="1402" y="877" width="1390" height="836" frameX="-166" frameY="-29" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10036" x="1402" y="877" width="1390" height="836" frameX="-166" frameY="-29" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10037" x="1402" y="877" width="1390" height="836" frameX="-166" frameY="-29" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10038" x="1402" y="877" width="1390" height="836" frameX="-166" frameY="-29" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10039" x="1402" y="877" width="1390" height="836" frameX="-166" frameY="-29" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10040" x="2802" y="877" width="1390" height="793" frameX="-166" frameY="-72" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10041" x="2802" y="877" width="1390" height="793" frameX="-166" frameY="-72" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10042" x="4202" y="877" width="1390" height="793" frameX="-166" frameY="-72" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10043" x="4202" y="877" width="1390" height="793" frameX="-166" frameY="-72" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10044" x="5602" y="877" width="1390" height="793" frameX="-166" frameY="-72" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10045" x="5602" y="877" width="1390" height="793" frameX="-166" frameY="-72" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10046" x="2" y="1723" width="1390" height="793" frameX="-166" frameY="-72" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10047" x="2" y="1723" width="1390" height="793" frameX="-166" frameY="-72" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10048" x="2802" y="877" width="1390" height="793" frameX="-166" frameY="-72" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10049" x="2802" y="877" width="1390" height="793" frameX="-166" frameY="-72" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10050" x="4202" y="877" width="1390" height="793" frameX="-166" frameY="-72" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10051" x="4202" y="877" width="1390" height="793" frameX="-166" frameY="-72" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10052" x="5602" y="877" width="1390" height="793" frameX="-166" frameY="-72" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10053" x="5602" y="877" width="1390" height="793" frameX="-166" frameY="-72" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10054" x="2" y="1723" width="1390" height="793" frameX="-166" frameY="-72" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10055" x="2" y="1723" width="1390" height="793" frameX="-166" frameY="-72" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10056" x="2" y="1723" width="1390" height="793" frameX="-166" frameY="-72" frameWidth="1601" frameHeight="868"/>
+	<SubTexture name="Symbol 10057" x="2" y="1723" width="1390" height="793" frameX="-166" frameY="-72" frameWidth="1601" frameHeight="868"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="monkey.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="monkey0000" x="0" y="0" width="989" height="1032"/>
+	<SubTexture name="monkey0001" x="0" y="0" width="989" height="1032"/>
+	<SubTexture name="monkey0002" x="994" y="0" width="989" height="1032"/>
+	<SubTexture name="monkey0003" x="994" y="0" width="989" height="1032"/>
+	<SubTexture name="monkey0004" x="1988" y="0" width="989" height="1032"/>
+	<SubTexture name="monkey0005" x="1988" y="0" width="989" height="1032"/>
+	<SubTexture name="monkey0006" x="1988" y="0" width="989" height="1032"/>
+	<SubTexture name="monkey0007" x="1988" y="0" width="989" height="1032"/>
+	<SubTexture name="monkey0008" x="1988" y="0" width="989" height="1032"/>
+	<SubTexture name="monkey0009" x="1988" y="0" width="989" height="1032"/>
+	<SubTexture name="monkey0010" x="1988" y="0" width="989" height="1032"/>
+	<SubTexture name="monkey0011" x="1988" y="0" width="989" height="1032"/>
+	<SubTexture name="monkey0012" x="1988" y="0" width="989" height="1032"/>
+	<SubTexture name="monkey0013" x="1988" y="0" width="989" height="1032"/>
+	<SubTexture name="monkey0014" x="1988" y="0" width="989" height="1032"/>
+</TextureAtlas>

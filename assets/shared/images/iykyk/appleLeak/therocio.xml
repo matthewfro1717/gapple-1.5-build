@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="therocio.png"><SubTexture name="therocio idle0000" x="0" y="0" width="413" height="482" frameX="0" frameY="0" frameWidth="413" frameHeight="482" />
+<SubTexture name="therocio idle0001" x="413" y="0" width="413" height="482" frameX="0" frameY="0" frameWidth="413" frameHeight="482" />
+<SubTexture name="therocio idle0002" x="0" y="482" width="413" height="482" frameX="0" frameY="0" frameWidth="413" frameHeight="482" />
+<SubTexture name="therocio idle0003" x="413" y="482" width="413" height="482" frameX="0" frameY="0" frameWidth="413" frameHeight="482" />
+</TextureAtlas>

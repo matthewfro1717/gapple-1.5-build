@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ferocio.png"><SubTexture name="ferocio stance0000" x="0" y="0" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="ferocio first meeting0000" x="304" y="0" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="ferocio funny mic0000" x="0" y="304" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="ferocio thinky0000" x="304" y="304" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="ferocio russian0000" x="0" y="608" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="ferocio schleep0000" x="304" y="608" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="ferocio fambio0000" x="0" y="912" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+</TextureAtlas>

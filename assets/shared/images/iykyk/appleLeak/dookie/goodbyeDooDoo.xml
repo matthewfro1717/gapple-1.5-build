@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="goodbyeDooDoo.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="leave0000" x="0" y="0" width="445" height="316"/>
+	<SubTexture name="leave0001" x="450" y="0" width="445" height="316"/>
+	<SubTexture name="leave0002" x="900" y="0" width="445" height="316"/>
+	<SubTexture name="leave0003" x="1350" y="0" width="445" height="316"/>
+	<SubTexture name="leave0004" x="1800" y="0" width="445" height="316"/>
+	<SubTexture name="leave0005" x="2250" y="0" width="445" height="316"/>
+	<SubTexture name="leave0006" x="2700" y="0" width="445" height="316"/>
+	<SubTexture name="leave0007" x="3150" y="0" width="445" height="316"/>
+	<SubTexture name="leave0008" x="3600" y="0" width="445" height="316"/>
+	<SubTexture name="leave0009" x="0" y="321" width="445" height="316"/>
+	<SubTexture name="leave0010" x="450" y="321" width="445" height="316"/>
+	<SubTexture name="leave0011" x="900" y="321" width="445" height="316"/>
+	<SubTexture name="leave0012" x="1350" y="321" width="445" height="316"/>
+	<SubTexture name="leave0013" x="1800" y="321" width="445" height="316"/>
+	<SubTexture name="leave0014" x="2250" y="321" width="445" height="316"/>
+	<SubTexture name="leave0015" x="2700" y="321" width="445" height="316"/>
+	<SubTexture name="leave0016" x="3150" y="321" width="445" height="316"/>
+	<SubTexture name="leave0017" x="3600" y="321" width="445" height="316"/>
+	<SubTexture name="leave0018" x="0" y="642" width="445" height="316"/>
+	<SubTexture name="leave0019" x="450" y="642" width="445" height="316"/>
+	<SubTexture name="leave0020" x="900" y="642" width="445" height="316"/>
+	<SubTexture name="leave0021" x="1350" y="642" width="445" height="316"/>
+	<SubTexture name="leave0022" x="1800" y="642" width="445" height="316"/>
+	<SubTexture name="leave0023" x="2250" y="642" width="445" height="316"/>
+	<SubTexture name="leave0024" x="2700" y="642" width="445" height="316"/>
+	<SubTexture name="leave0025" x="3150" y="642" width="445" height="316"/>
+	<SubTexture name="leave0026" x="3600" y="642" width="445" height="316"/>
+	<SubTexture name="leave0027" x="0" y="963" width="445" height="316"/>
+	<SubTexture name="leave0028" x="450" y="963" width="445" height="316"/>
+	<SubTexture name="leave0029" x="900" y="963" width="445" height="316"/>
+	<SubTexture name="leave0030" x="1350" y="963" width="445" height="316"/>
+	<SubTexture name="leave0031" x="1800" y="963" width="445" height="316"/>
+	<SubTexture name="leave0032" x="2250" y="963" width="445" height="316"/>
+	<SubTexture name="leave0033" x="2700" y="963" width="445" height="316"/>
+	<SubTexture name="leave0034" x="3150" y="963" width="445" height="316"/>
+	<SubTexture name="leave0035" x="3600" y="963" width="445" height="316"/>
+	<SubTexture name="leave0036" x="0" y="1284" width="445" height="316"/>
+	<SubTexture name="leave0037" x="450" y="1284" width="445" height="316"/>
+	<SubTexture name="leave0038" x="900" y="1284" width="445" height="316"/>
+</TextureAtlas>
