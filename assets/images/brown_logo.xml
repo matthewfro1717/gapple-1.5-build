@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="brown_logo.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logo bumpin0000" x="1939" y="929" width="770" height="772" frameX="-164" frameY="-155" frameWidth="1087" frameHeight="1090"/>
+	<SubTexture name="logo bumpin0001" x="1939" y="929" width="770" height="772" frameX="-164" frameY="-155" frameWidth="1087" frameHeight="1090"/>
+	<SubTexture name="logo bumpin0002" x="10" y="10" width="1087" height="1090"/>
+	<SubTexture name="logo bumpin0003" x="10" y="10" width="1087" height="1090"/>
+	<SubTexture name="logo bumpin0004" x="1107" y="10" width="903" height="909" frameX="-116" frameY="-72" frameWidth="1087" frameHeight="1090"/>
+	<SubTexture name="logo bumpin0005" x="1107" y="10" width="903" height="909" frameX="-116" frameY="-72" frameWidth="1087" frameHeight="1090"/>
+	<SubTexture name="logo bumpin0006" x="1107" y="929" width="822" height="827" frameX="-151" frameY="-101" frameWidth="1087" frameHeight="1090"/>
+	<SubTexture name="logo bumpin0007" x="1107" y="929" width="822" height="827" frameX="-151" frameY="-101" frameWidth="1087" frameHeight="1090"/>
+	<SubTexture name="logo bumpin0008" x="10" y="1110" width="773" height="779" frameX="-178" frameY="-136" frameWidth="1087" frameHeight="1090"/>
+	<SubTexture name="logo bumpin0009" x="10" y="1110" width="773" height="779" frameX="-178" frameY="-136" frameWidth="1087" frameHeight="1090"/>
+	<SubTexture name="logo bumpin0010" x="10" y="1110" width="773" height="779" frameX="-178" frameY="-136" frameWidth="1087" frameHeight="1090"/>
+	<SubTexture name="logo bumpin0011" x="10" y="1110" width="773" height="779" frameX="-178" frameY="-136" frameWidth="1087" frameHeight="1090"/>
+	<SubTexture name="logo bumpin0012" x="10" y="1110" width="773" height="779" frameX="-178" frameY="-136" frameWidth="1087" frameHeight="1090"/>
+	<SubTexture name="logo bumpin0013" x="10" y="1110" width="773" height="779" frameX="-178" frameY="-136" frameWidth="1087" frameHeight="1090"/>
+</TextureAtlas>

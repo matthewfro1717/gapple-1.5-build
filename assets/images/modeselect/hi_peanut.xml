@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hi_peanut.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hover0000" x="20" y="20" width="231" height="184"/>
+	<SubTexture name="hover0001" x="20" y="20" width="231" height="184"/>
+	<SubTexture name="hover0002" x="271" y="20" width="231" height="184"/>
+	<SubTexture name="hover0003" x="271" y="20" width="231" height="184"/>
+	<SubTexture name="hover0004" x="522" y="20" width="231" height="184"/>
+	<SubTexture name="hover0005" x="522" y="20" width="231" height="184"/>
+	<SubTexture name="hover0006" x="773" y="20" width="231" height="184"/>
+	<SubTexture name="hover0007" x="773" y="20" width="231" height="184"/>
+	<SubTexture name="hover0008" x="20" y="224" width="231" height="184"/>
+	<SubTexture name="hover0009" x="20" y="224" width="231" height="184"/>
+	<SubTexture name="idle0000" x="271" y="224" width="231" height="184"/>
+	<SubTexture name="idle0001" x="271" y="224" width="231" height="184"/>
+</TextureAtlas>

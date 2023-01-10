@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="peensum shop.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idlel0000" x="2" y="2" width="548" height="689" frameX="-6" frameY="-21" frameWidth="556" frameHeight="710"/>
+	<SubTexture name="idlel0001" x="2" y="2" width="548" height="689" frameX="-6" frameY="-21" frameWidth="556" frameHeight="710"/>
+	<SubTexture name="idlel0002" x="560" y="2" width="553" height="701" frameX="-2" frameY="-4" frameWidth="556" frameHeight="710"/>
+	<SubTexture name="idlel0003" x="560" y="2" width="553" height="701" frameX="-2" frameY="-4" frameWidth="556" frameHeight="710"/>
+	<SubTexture name="idlel0004" x="1123" y="2" width="554" height="703" frameX="-2" frameY="-1" frameWidth="556" frameHeight="710"/>
+	<SubTexture name="idlel0005" x="1123" y="2" width="554" height="703" frameX="-2" frameY="-1" frameWidth="556" frameHeight="710"/>
+	<SubTexture name="idlel0006" x="1687" y="2" width="556" height="703" frameX="0" frameY="0" frameWidth="556" frameHeight="710"/>
+	<SubTexture name="idlel0007" x="1687" y="2" width="556" height="703" frameX="0" frameY="0" frameWidth="556" frameHeight="710"/>
+	<SubTexture name="idler0000" x="2253" y="2" width="562" height="689" frameX="-2" frameY="-22" frameWidth="564" frameHeight="711"/>
+	<SubTexture name="idler0001" x="2253" y="2" width="562" height="689" frameX="-2" frameY="-22" frameWidth="564" frameHeight="711"/>
+	<SubTexture name="idler0002" x="2825" y="2" width="541" height="695" frameX="0" frameY="-6" frameWidth="564" frameHeight="711"/>
+	<SubTexture name="idler0003" x="2825" y="2" width="541" height="695" frameX="0" frameY="-6" frameWidth="564" frameHeight="711"/>
+	<SubTexture name="idler0004" x="3376" y="2" width="536" height="698" frameX="0" frameY="-2" frameWidth="564" frameHeight="711"/>
+	<SubTexture name="idler0005" x="3376" y="2" width="536" height="698" frameX="0" frameY="-2" frameWidth="564" frameHeight="711"/>
+	<SubTexture name="idler0006" x="2" y="715" width="534" height="699" frameX="0" frameY="0" frameWidth="564" frameHeight="711"/>
+	<SubTexture name="idler0007" x="2" y="715" width="534" height="699" frameX="0" frameY="0" frameWidth="564" frameHeight="711"/>
+	<SubTexture name="wah0000" x="546" y="715" width="496" height="725" frameX="-26" frameY="0" frameWidth="533" frameHeight="725"/>
+	<SubTexture name="wah0001" x="546" y="715" width="496" height="725" frameX="-26" frameY="0" frameWidth="533" frameHeight="725"/>
+	<SubTexture name="wah0002" x="1052" y="715" width="506" height="710" frameX="-16" frameY="-14" frameWidth="533" frameHeight="725"/>
+	<SubTexture name="wah0003" x="1568" y="715" width="529" height="702" frameX="-2" frameY="-21" frameWidth="533" frameHeight="725"/>
+	<SubTexture name="wah0004" x="1568" y="715" width="529" height="702" frameX="-2" frameY="-21" frameWidth="533" frameHeight="725"/>
+	<SubTexture name="wah0005" x="2107" y="715" width="533" height="697" frameX="0" frameY="-26" frameWidth="533" frameHeight="725"/>
+	<SubTexture name="wah0006" x="2107" y="715" width="533" height="697" frameX="0" frameY="-26" frameWidth="533" frameHeight="725"/>
+	<SubTexture name="wah0007" x="2107" y="715" width="533" height="697" frameX="0" frameY="-26" frameWidth="533" frameHeight="725"/>
+</TextureAtlas>
