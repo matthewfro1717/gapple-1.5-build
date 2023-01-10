@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hotdoooog.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flip0000" x="2" y="2" width="664" height="809"/>
+	<SubTexture name="flip0001" x="2" y="2" width="664" height="809"/>
+	<SubTexture name="flip0002" x="676" y="2" width="664" height="809"/>
+	<SubTexture name="flip0003" x="676" y="2" width="664" height="809"/>
+	<SubTexture name="flip0004" x="1350" y="2" width="664" height="809"/>
+	<SubTexture name="flip0005" x="1350" y="2" width="664" height="809"/>
+	<SubTexture name="flip0006" x="2024" y="2" width="664" height="809"/>
+	<SubTexture name="flip0007" x="2024" y="2" width="664" height="809"/>
+	<SubTexture name="flop0000" x="2698" y="2" width="726" height="809"/>
+	<SubTexture name="flop0001" x="2698" y="2" width="726" height="809"/>
+	<SubTexture name="flop0002" x="3434" y="2" width="664" height="809" frameX="0" frameY="0" frameWidth="726" frameHeight="809"/>
+	<SubTexture name="flop0003" x="3434" y="2" width="664" height="809" frameX="0" frameY="0" frameWidth="726" frameHeight="809"/>
+	<SubTexture name="flop0004" x="1350" y="2" width="664" height="809"/>
+	<SubTexture name="flop0005" x="1350" y="2" width="664" height="809"/>
+	<SubTexture name="flop0006" x="4108" y="2" width="664" height="809" frameX="0" frameY="0" frameWidth="726" frameHeight="809"/>
+	<SubTexture name="flop0007" x="4108" y="2" width="664" height="809" frameX="0" frameY="0" frameWidth="726" frameHeight="809"/>
+	<SubTexture name="glip0000" x="4782" y="2" width="642" height="845"/>
+	<SubTexture name="glip0001" x="4782" y="2" width="642" height="845"/>
+	<SubTexture name="glip0002" x="5434" y="2" width="642" height="845"/>
+	<SubTexture name="glip0003" x="5434" y="2" width="642" height="845"/>
+	<SubTexture name="glip0004" x="6086" y="2" width="642" height="845"/>
+	<SubTexture name="glip0005" x="6086" y="2" width="642" height="845"/>
+	<SubTexture name="glip0006" x="6738" y="2" width="642" height="845"/>
+	<SubTexture name="glip0007" x="6738" y="2" width="642" height="845"/>
+	<SubTexture name="glop0000" x="7390" y="2" width="642" height="845"/>
+	<SubTexture name="glop0001" x="2" y="857" width="642" height="845"/>
+	<SubTexture name="glop0002" x="654" y="857" width="642" height="845"/>
+	<SubTexture name="glop0003" x="1306" y="857" width="642" height="845"/>
+	<SubTexture name="slip0000" x="1958" y="857" width="642" height="845" frameX="0" frameY="0" frameWidth="919" frameHeight="845"/>
+	<SubTexture name="slip0001" x="1958" y="857" width="642" height="845" frameX="0" frameY="0" frameWidth="919" frameHeight="845"/>
+	<SubTexture name="slip0002" x="2610" y="857" width="859" height="845" frameX="0" frameY="0" frameWidth="919" frameHeight="845"/>
+	<SubTexture name="slip0003" x="2610" y="857" width="859" height="845" frameX="0" frameY="0" frameWidth="919" frameHeight="845"/>
+	<SubTexture name="slip0004" x="3479" y="857" width="916" height="845" frameX="0" frameY="0" frameWidth="919" frameHeight="845"/>
+	<SubTexture name="slip0005" x="3479" y="857" width="916" height="845" frameX="0" frameY="0" frameWidth="919" frameHeight="845"/>
+	<SubTexture name="slip0006" x="4405" y="857" width="919" height="845"/>
+	<SubTexture name="slip0007" x="4405" y="857" width="919" height="845"/>
+	<SubTexture name="slip0008" x="3479" y="857" width="916" height="845" frameX="0" frameY="0" frameWidth="919" frameHeight="845"/>
+	<SubTexture name="slip0009" x="3479" y="857" width="916" height="845" frameX="0" frameY="0" frameWidth="919" frameHeight="845"/>
+	<SubTexture name="slip0010" x="2610" y="857" width="859" height="845" frameX="0" frameY="0" frameWidth="919" frameHeight="845"/>
+	<SubTexture name="slip0011" x="2610" y="857" width="859" height="845" frameX="0" frameY="0" frameWidth="919" frameHeight="845"/>
+	<SubTexture name="slop0000" x="5334" y="857" width="642" height="845" frameX="-11" frameY="0" frameWidth="653" frameHeight="845"/>
+	<SubTexture name="slop0001" x="5334" y="857" width="642" height="845" frameX="-11" frameY="0" frameWidth="653" frameHeight="845"/>
+	<SubTexture name="slop0002" x="5986" y="857" width="642" height="845" frameX="-11" frameY="0" frameWidth="653" frameHeight="845"/>
+	<SubTexture name="slop0003" x="5986" y="857" width="642" height="845" frameX="-11" frameY="0" frameWidth="653" frameHeight="845"/>
+	<SubTexture name="slop0004" x="6638" y="857" width="653" height="845"/>
+	<SubTexture name="slop0005" x="6638" y="857" width="653" height="845"/>
+	<SubTexture name="slop0006" x="7301" y="857" width="642" height="845" frameX="-11" frameY="0" frameWidth="653" frameHeight="845"/>
+	<SubTexture name="slop0007" x="7301" y="857" width="642" height="845" frameX="-11" frameY="0" frameWidth="653" frameHeight="845"/>
+	<SubTexture name="slop0008" x="6638" y="857" width="653" height="845"/>
+	<SubTexture name="slop0009" x="6638" y="857" width="653" height="845"/>
+	<SubTexture name="slop0010" x="5986" y="857" width="642" height="845" frameX="-11" frameY="0" frameWidth="653" frameHeight="845"/>
+	<SubTexture name="slop0011" x="5986" y="857" width="642" height="845" frameX="-11" frameY="0" frameWidth="653" frameHeight="845"/>
+</TextureAtlas>

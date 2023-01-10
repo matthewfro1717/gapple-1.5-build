@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spoar cut.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cut0000" x="0" y="0" width="1451" height="1423" frameX="0" frameY="-63" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0001" x="0" y="0" width="1451" height="1423" frameX="0" frameY="-63" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0002" x="0" y="0" width="1451" height="1423" frameX="0" frameY="-63" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0003" x="0" y="0" width="1451" height="1423" frameX="0" frameY="-63" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0004" x="0" y="0" width="1451" height="1423" frameX="0" frameY="-63" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0005" x="0" y="0" width="1451" height="1423" frameX="0" frameY="-63" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0006" x="0" y="0" width="1451" height="1423" frameX="0" frameY="-63" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0007" x="1451" y="0" width="1448" height="1527" frameX="-33" frameY="0" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0008" x="1451" y="0" width="1448" height="1527" frameX="-33" frameY="0" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0009" x="0" y="1527" width="1460" height="728" frameX="-101" frameY="-716" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0010" x="0" y="1527" width="1460" height="728" frameX="-101" frameY="-716" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0011" x="1460" y="1527" width="1452" height="745" frameX="-125" frameY="-716" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0012" x="1460" y="1527" width="1452" height="745" frameX="-125" frameY="-716" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0013" x="0" y="2272" width="1452" height="739" frameX="-125" frameY="-716" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0014" x="0" y="2272" width="1452" height="739" frameX="-125" frameY="-716" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0015" x="0" y="2272" width="1452" height="739" frameX="-125" frameY="-716" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0016" x="0" y="2272" width="1452" height="739" frameX="-125" frameY="-716" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0017" x="0" y="2272" width="1452" height="739" frameX="-125" frameY="-716" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0018" x="0" y="2272" width="1452" height="739" frameX="-125" frameY="-716" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0019" x="0" y="2272" width="1452" height="739" frameX="-125" frameY="-716" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0020" x="0" y="2272" width="1452" height="739" frameX="-125" frameY="-716" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0021" x="0" y="2272" width="1452" height="739" frameX="-125" frameY="-716" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0022" x="0" y="2272" width="1452" height="739" frameX="-125" frameY="-716" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0023" x="0" y="2272" width="1452" height="739" frameX="-125" frameY="-716" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0024" x="0" y="2272" width="1452" height="739" frameX="-125" frameY="-716" frameWidth="1577" frameHeight="1527"/>
+	<SubTexture name="cut0025" x="0" y="2272" width="1452" height="739" frameX="-125" frameY="-716" frameWidth="1577" frameHeight="1527"/>
+</TextureAtlas>
