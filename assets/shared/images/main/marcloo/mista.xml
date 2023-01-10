@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mista.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GAY PEOPLE0000" x="0" y="0" width="2508" height="898"/>
+	<SubTexture name="GAY PEOPLE0001" x="2513" y="0" width="2508" height="898"/>
+	<SubTexture name="GAY PEOPLE0002" x="5026" y="0" width="2508" height="898"/>
+	<SubTexture name="GAY PEOPLE0003" x="0" y="903" width="2508" height="898"/>
+	<SubTexture name="GAY PEOPLE0004" x="2513" y="903" width="2508" height="898"/>
+	<SubTexture name="GAY PEOPLE0005" x="5026" y="903" width="2508" height="898"/>
+	<SubTexture name="GAY PEOPLE0006" x="0" y="1806" width="2508" height="898"/>
+	<SubTexture name="GAY PEOPLE0007" x="2513" y="1806" width="2508" height="898"/>
+	<SubTexture name="GAY PEOPLE0008" x="5026" y="1806" width="2508" height="898"/>
+	<SubTexture name="GAY PEOPLE0009" x="0" y="2709" width="2508" height="898"/>
+	<SubTexture name="GAY PEOPLE0010" x="2513" y="2709" width="2508" height="898"/>
+	<SubTexture name="GAY PEOPLE0011" x="5026" y="2709" width="2508" height="898"/>
+	<SubTexture name="GAY PEOPLE0012" x="0" y="3612" width="2508" height="898"/>
+</TextureAtlas>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mista_bambi_awesome.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="the penis elf is staring at me0000" x="0" y="0" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0001" x="1412" y="0" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0002" x="2824" y="0" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0003" x="4236" y="0" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0004" x="5648" y="0" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0005" x="0" y="777" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0006" x="1412" y="777" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0007" x="2824" y="777" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0008" x="4236" y="777" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0009" x="5648" y="777" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0010" x="0" y="1554" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0011" x="1412" y="1554" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0012" x="2824" y="1554" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0013" x="4236" y="1554" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0014" x="5648" y="1554" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0015" x="0" y="2331" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0016" x="1412" y="2331" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0017" x="2824" y="2331" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0018" x="4236" y="2331" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0019" x="5648" y="2331" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0020" x="0" y="3108" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0021" x="1412" y="3108" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0022" x="2824" y="3108" width="1412" height="777" frameX="0" frameY="0" frameWidth="1413" frameHeight="777"/>
+	<SubTexture name="the penis elf is staring at me0023" x="4236" y="3108" width="1413" height="777"/>
+</TextureAtlas>
