@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="haha scaredy cat.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fnf0000" x="0" y="0" width="469" height="579" frameX="-4" frameY="0" frameWidth="473" frameHeight="579"/>
+	<SubTexture name="fnf0001" x="0" y="0" width="469" height="579" frameX="-4" frameY="0" frameWidth="473" frameHeight="579"/>
+	<SubTexture name="fnf0002" x="469" y="0" width="469" height="579" frameX="0" frameY="0" frameWidth="473" frameHeight="579"/>
+	<SubTexture name="fnf0003" x="469" y="0" width="469" height="579" frameX="0" frameY="0" frameWidth="473" frameHeight="579"/>
+	<SubTexture name="fnf0004" x="0" y="0" width="469" height="579" frameX="-4" frameY="0" frameWidth="473" frameHeight="579"/>
+</TextureAtlas>

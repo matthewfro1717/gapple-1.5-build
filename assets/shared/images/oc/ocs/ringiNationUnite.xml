@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ringiNationUnite.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RINGI NATION RINGI NATION RINGI NATION0000" x="10" y="10" width="597" height="588"/>
+	<SubTexture name="RINGI NATION RINGI NATION RINGI NATION0001" x="617" y="10" width="597" height="588"/>
+	<SubTexture name="RINGI NATION RINGI NATION RINGI NATION0002" x="1224" y="10" width="597" height="588"/>
+	<SubTexture name="RINGI NATION RINGI NATION RINGI NATION0003" x="1831" y="10" width="597" height="588"/>
+	<SubTexture name="RINGI NATION RINGI NATION RINGI NATION0004" x="2438" y="10" width="597" height="588"/>
+	<SubTexture name="RINGI NATION RINGI NATION RINGI NATION0005" x="3045" y="10" width="597" height="588"/>
+	<SubTexture name="RINGI NATION RINGI NATION RINGI NATION0006" x="10" y="608" width="597" height="588"/>
+	<SubTexture name="RINGI NATION RINGI NATION RINGI NATION0007" x="617" y="608" width="597" height="588"/>
+	<SubTexture name="RINGI NATION RINGI NATION RINGI NATION0008" x="1224" y="608" width="597" height="588"/>
+	<SubTexture name="RINGI NATION RINGI NATION RINGI NATION0009" x="1831" y="608" width="597" height="588"/>
+	<SubTexture name="RINGI NATION RINGI NATION RINGI NATION0010" x="2438" y="608" width="597" height="588"/>
+	<SubTexture name="RINGI NATION RINGI NATION RINGI NATION0011" x="3045" y="608" width="597" height="588"/>
+	<SubTexture name="RINGI NATION RINGI NATION RINGI NATION0012" x="10" y="1206" width="597" height="588"/>
+	<SubTexture name="RINGI NATION RINGI NATION RINGI NATION0013" x="617" y="1206" width="597" height="588"/>
+</TextureAtlas>
