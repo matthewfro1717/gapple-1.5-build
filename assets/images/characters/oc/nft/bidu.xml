@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bidu.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dad Sing Note DOWN0000" x="10" y="10" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note DOWN0001" x="10" y="10" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note DOWN0002" x="927" y="10" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note DOWN0003" x="927" y="10" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note DOWN0004" x="1844" y="10" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note DOWN0005" x="1844" y="10" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note DOWN0006" x="1844" y="10" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note DOWN0007" x="1844" y="10" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note DOWN0008" x="1844" y="10" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note LEFT0000" x="2761" y="10" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note LEFT0001" x="2761" y="10" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note LEFT0002" x="10" y="692" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note LEFT0003" x="10" y="692" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note LEFT0004" x="927" y="692" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note LEFT0005" x="927" y="692" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note LEFT0006" x="927" y="692" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note LEFT0007" x="927" y="692" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note LEFT0008" x="927" y="692" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note RIGHT0000" x="1844" y="692" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note RIGHT0001" x="1844" y="692" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note RIGHT0002" x="2761" y="692" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note RIGHT0003" x="2761" y="692" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note RIGHT0004" x="10" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note RIGHT0005" x="10" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note RIGHT0006" x="10" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note RIGHT0007" x="10" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note RIGHT0008" x="10" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note UP0000" x="927" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note UP0001" x="927" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note UP0002" x="1844" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note UP0003" x="1844" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note UP0004" x="2761" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note UP0005" x="2761" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note UP0006" x="2761" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note UP0007" x="2761" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note UP0008" x="2761" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note UP0009" x="2761" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note UP0010" x="2761" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note UP0011" x="2761" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note UP0012" x="2761" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note UP0013" x="2761" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad idle dance0000" x="10" y="2056" width="601" height="672" frameX="-153" frameY="0" frameWidth="907" frameHeight="672"/>
+	<SubTexture name="Dad idle dance0001" x="10" y="2056" width="601" height="672" frameX="-153" frameY="0" frameWidth="907" frameHeight="672"/>
+	<SubTexture name="Dad idle dance0002" x="621" y="2056" width="601" height="672" frameX="-153" frameY="0" frameWidth="907" frameHeight="672"/>
+	<SubTexture name="Dad idle dance0003" x="621" y="2056" width="601" height="672" frameX="-153" frameY="0" frameWidth="907" frameHeight="672"/>
+	<SubTexture name="Dad idle dance0004" x="1232" y="2056" width="601" height="672" frameX="-153" frameY="0" frameWidth="907" frameHeight="672"/>
+	<SubTexture name="Dad idle dance0005" x="1232" y="2056" width="601" height="672" frameX="-153" frameY="0" frameWidth="907" frameHeight="672"/>
+	<SubTexture name="Dad idle dance0006" x="1843" y="2056" width="907" height="672"/>
+	<SubTexture name="Dad idle dance0007" x="1843" y="2056" width="907" height="672"/>
+	<SubTexture name="Dad idle dance0008" x="1843" y="2056" width="907" height="672"/>
+	<SubTexture name="Dad idle dance0009" x="1843" y="2056" width="907" height="672"/>
+	<SubTexture name="Dad idle dance0010" x="1843" y="2056" width="907" height="672"/>
+	<SubTexture name="Dad idle dance0011" x="1843" y="2056" width="907" height="672"/>
+	<SubTexture name="Dad idle dance0012" x="1843" y="2056" width="907" height="672"/>
+	<SubTexture name="Dad idle dance0013" x="1843" y="2056" width="907" height="672"/>
+	<SubTexture name="kill0000" x="2760" y="2056" width="907" height="672"/>
+	<SubTexture name="kill0001" x="2760" y="2056" width="907" height="672"/>
+	<SubTexture name="kill0002" x="2760" y="2056" width="907" height="672"/>
+	<SubTexture name="kill0003" x="2760" y="2056" width="907" height="672"/>
+	<SubTexture name="kill0004" x="2760" y="2056" width="907" height="672"/>
+	<SubTexture name="kill0005" x="2760" y="2056" width="907" height="672"/>
+	<SubTexture name="kill0006" x="2760" y="2056" width="907" height="672"/>
+	<SubTexture name="kill0007" x="2760" y="2056" width="907" height="672"/>
+	<SubTexture name="kill0008" x="2760" y="2056" width="907" height="672"/>
+	<SubTexture name="kill0009" x="2760" y="2056" width="907" height="672"/>
+	<SubTexture name="kill0010" x="2760" y="2056" width="907" height="672"/>
+	<SubTexture name="kill0011" x="2760" y="2056" width="907" height="672"/>
+	<SubTexture name="kill0012" x="2760" y="2056" width="907" height="672"/>
+	<SubTexture name="kill0013" x="10" y="2738" width="907" height="672"/>
+	<SubTexture name="kill0014" x="927" y="2738" width="907" height="672"/>
+	<SubTexture name="kill0015" x="1844" y="2738" width="907" height="672"/>
+	<SubTexture name="kill0016" x="1844" y="2738" width="907" height="672"/>
+	<SubTexture name="kill0017" x="2761" y="2738" width="907" height="672"/>
+	<SubTexture name="kill0018" x="10" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0019" x="927" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0020" x="927" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0021" x="927" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0022" x="927" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0023" x="927" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0024" x="927" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0025" x="927" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0026" x="927" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0027" x="927" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0028" x="927" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0029" x="927" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0030" x="927" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0031" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0032" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0033" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0034" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0035" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0036" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0037" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0038" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0039" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0040" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0041" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0042" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0043" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0044" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0045" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0046" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0047" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0048" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0049" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0050" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0051" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0052" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0053" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0054" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0055" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0056" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0057" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0058" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0059" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0060" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0061" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0062" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0063" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0064" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0065" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0066" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0067" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0068" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0069" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0070" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0071" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0072" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0073" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0074" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0075" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0076" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0077" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0078" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0079" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0080" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0081" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0082" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0083" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0084" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0085" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0086" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0087" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0088" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0089" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0090" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0091" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0092" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0093" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0094" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0095" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0096" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0097" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0098" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0099" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0100" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0101" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0102" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0103" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0104" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0105" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0106" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0107" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0108" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="kill0109" x="1844" y="3420" width="907" height="672"/>
+	<SubTexture name="sad0000" x="2760" y="2056" width="907" height="672"/>
+	<SubTexture name="scared0000" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0001" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0002" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0003" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0004" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0005" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0006" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0007" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0008" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0009" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0010" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0011" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0012" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0013" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0014" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0015" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0016" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0017" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0018" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0019" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0020" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0021" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0022" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0023" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0024" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0025" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0026" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0027" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0028" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0029" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0030" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0031" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0032" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0033" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0034" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0035" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0036" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0037" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0038" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0039" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0040" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0041" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0042" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0043" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0044" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0045" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0046" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0047" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0048" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0049" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0050" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0051" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0052" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0053" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0054" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0055" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0056" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0057" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0058" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0059" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0060" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0061" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0062" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0063" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0064" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0065" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0066" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0067" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0068" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0069" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0070" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0071" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0072" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0073" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0074" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0075" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0076" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0077" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0078" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0079" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0080" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0081" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0082" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0083" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0084" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0085" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0086" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0087" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0088" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0089" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0090" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0091" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0092" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0093" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0094" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0095" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0096" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0097" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0098" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0099" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0100" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0101" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0102" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0103" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0104" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0105" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0106" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0107" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0108" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0109" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0110" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0111" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0112" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0113" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0114" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0115" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0116" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0117" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0118" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0119" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0120" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0121" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0122" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0123" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0124" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0125" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0126" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0127" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0128" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0129" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0130" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0131" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0132" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0133" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0134" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0135" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0136" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0137" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0138" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0139" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0140" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0141" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0142" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0143" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0144" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0145" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0146" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0147" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0148" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+	<SubTexture name="scared0149" x="2761" y="3420" width="907" height="672" frameX="0" frameY="0" frameWidth="908" frameHeight="672"/>
+</TextureAtlas>

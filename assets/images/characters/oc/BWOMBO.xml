@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BWOMBO.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bwombo down0000" x="2216" y="1386" width="1078" height="669"/>
+	<SubTexture name="bwombo down0001" x="3304" y="1386" width="1078" height="669"/>
+	<SubTexture name="bwombo down0002" x="3318" y="10" width="1078" height="669"/>
+	<SubTexture name="bwombo down0003" x="3318" y="10" width="1078" height="669"/>
+	<SubTexture name="bwombo down0004" x="3318" y="10" width="1078" height="669"/>
+	<SubTexture name="bwombo idle0000" x="10" y="2080" width="1092" height="679"/>
+	<SubTexture name="bwombo idle0001" x="10" y="2080" width="1092" height="679"/>
+	<SubTexture name="bwombo idle0002" x="1112" y="2080" width="1092" height="679"/>
+	<SubTexture name="bwombo idle0003" x="1112" y="2080" width="1092" height="679"/>
+	<SubTexture name="bwombo idle0004" x="1114" y="10" width="1092" height="679"/>
+	<SubTexture name="bwombo idle0005" x="1114" y="10" width="1092" height="679"/>
+	<SubTexture name="bwombo idle0006" x="1114" y="699" width="1092" height="679"/>
+	<SubTexture name="bwombo idle0007" x="1114" y="1388" width="1092" height="679"/>
+	<SubTexture name="bwombo idle0008" x="1114" y="1388" width="1092" height="679"/>
+	<SubTexture name="bwombo idle0009" x="1114" y="1388" width="1092" height="679"/>
+	<SubTexture name="bwombo idle0010" x="1114" y="1388" width="1092" height="679"/>
+	<SubTexture name="bwombo idle0011" x="1114" y="1388" width="1092" height="679"/>
+	<SubTexture name="bwombo idle0012" x="1114" y="1388" width="1092" height="679"/>
+	<SubTexture name="bwombo idle0013" x="1114" y="1388" width="1092" height="679"/>
+	<SubTexture name="bwombo left0000" x="2214" y="2077" width="1092" height="678"/>
+	<SubTexture name="bwombo left0001" x="2216" y="10" width="1092" height="678"/>
+	<SubTexture name="bwombo left0002" x="2216" y="698" width="1092" height="678"/>
+	<SubTexture name="bwombo left0003" x="2216" y="698" width="1092" height="678"/>
+	<SubTexture name="bwombo left0004" x="2216" y="698" width="1092" height="678"/>
+	<SubTexture name="bwombo right0000" x="10" y="10" width="1094" height="680"/>
+	<SubTexture name="bwombo right0001" x="10" y="700" width="1094" height="680"/>
+	<SubTexture name="bwombo right0002" x="10" y="1390" width="1094" height="680"/>
+	<SubTexture name="bwombo right0003" x="10" y="1390" width="1094" height="680"/>
+	<SubTexture name="bwombo right0004" x="10" y="1390" width="1094" height="680"/>
+	<SubTexture name="bwombo up0000" x="3318" y="689" width="1056" height="656"/>
+	<SubTexture name="bwombo up0001" x="4384" y="689" width="1056" height="656"/>
+	<SubTexture name="bwombo up0002" x="4406" y="10" width="1056" height="656"/>
+	<SubTexture name="bwombo up0003" x="4406" y="10" width="1056" height="656"/>
+	<SubTexture name="bwombo up0004" x="4406" y="10" width="1056" height="656"/>
+</TextureAtlas>

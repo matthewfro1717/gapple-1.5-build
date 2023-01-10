@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="3d screwed.png"><SubTexture name="3d screwed down0000" x="0" y="0" width="1354" height="950" frameX="0" frameY="0" frameWidth="1354" frameHeight="950" />
+<SubTexture name="3d screwed left0000" x="1354" y="0" width="1354" height="950" frameX="0" frameY="0" frameWidth="1354" frameHeight="950" />
+<SubTexture name="3d screwed left0001" x="0" y="950" width="1354" height="950" frameX="0" frameY="0" frameWidth="1354" frameHeight="950" />
+<SubTexture name="3d screwed right0000" x="1354" y="950" width="1354" height="950" frameX="0" frameY="0" frameWidth="1354" frameHeight="950" />
+<SubTexture name="3d screwed right0001" x="0" y="1900" width="1354" height="950" frameX="0" frameY="0" frameWidth="1354" frameHeight="950" />
+<SubTexture name="3d screwed idle0000" x="1354" y="1900" width="1354" height="950" frameX="0" frameY="0" frameWidth="1354" frameHeight="950" />
+<SubTexture name="3d screwed up0000" x="0" y="2850" width="1354" height="950" frameX="0" frameY="0" frameWidth="1354" frameHeight="950" />
+<SubTexture name="3d screwed up0001" x="1354" y="2850" width="1354" height="950" frameX="0" frameY="0" frameWidth="1354" frameHeight="950" />
+</TextureAtlas>

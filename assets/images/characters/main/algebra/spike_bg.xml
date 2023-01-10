@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spike_bg.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="693" y="10" width="673" height="807"/>
+	<SubTexture name="down0001" x="693" y="10" width="673" height="807"/>
+	<SubTexture name="down0002" x="1376" y="10" width="673" height="807"/>
+	<SubTexture name="down0003" x="1376" y="10" width="673" height="807"/>
+	<SubTexture name="idle0000" x="10" y="10" width="673" height="807"/>
+	<SubTexture name="left0000" x="2059" y="10" width="673" height="807"/>
+	<SubTexture name="left0001" x="2059" y="10" width="673" height="807"/>
+	<SubTexture name="left0002" x="2742" y="10" width="673" height="807"/>
+	<SubTexture name="left0003" x="2742" y="10" width="673" height="807"/>
+	<SubTexture name="right0000" x="10" y="827" width="673" height="807"/>
+	<SubTexture name="right0001" x="10" y="827" width="673" height="807"/>
+	<SubTexture name="right0002" x="693" y="827" width="673" height="807"/>
+	<SubTexture name="right0003" x="693" y="827" width="673" height="807"/>
+	<SubTexture name="up0000" x="1376" y="827" width="673" height="807"/>
+	<SubTexture name="up0001" x="1376" y="827" width="673" height="807"/>
+	<SubTexture name="up0002" x="2059" y="827" width="673" height="807"/>
+	<SubTexture name="up0003" x="2059" y="827" width="673" height="807"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AMEN.png"><SubTexture name="AMEN amen bamb0000" x="0" y="0" width="2004" height="2004" frameX="0" frameY="0" frameWidth="2004" frameHeight="2004" />
+<SubTexture name="AMEN amen bamb0001" x="2004" y="0" width="2004" height="2004" frameX="0" frameY="0" frameWidth="2004" frameHeight="2004" />
+<SubTexture name="AMEN right0000" x="4008" y="0" width="2004" height="2004" frameX="0" frameY="0" frameWidth="2004" frameHeight="2004" />
+<SubTexture name="AMEN right0001" x="0" y="2004" width="2004" height="2004" frameX="0" frameY="0" frameWidth="2004" frameHeight="2004" />
+<SubTexture name="AMEN down0000" x="2004" y="2004" width="2004" height="2004" frameX="0" frameY="0" frameWidth="2004" frameHeight="2004" />
+<SubTexture name="AMEN down0001" x="4008" y="2004" width="2004" height="2004" frameX="0" frameY="0" frameWidth="2004" frameHeight="2004" />
+<SubTexture name="AMEN up0000" x="0" y="4008" width="2004" height="2004" frameX="0" frameY="0" frameWidth="2004" frameHeight="2004" />
+<SubTexture name="AMEN up0001" x="2004" y="4008" width="2004" height="2004" frameX="0" frameY="0" frameWidth="2004" frameHeight="2004" />
+<SubTexture name="AMEN left0000" x="4008" y="4008" width="2004" height="2004" frameX="0" frameY="0" frameWidth="2004" frameHeight="2004" />
+<SubTexture name="AMEN left0001" x="0" y="6012" width="2004" height="2004" frameX="0" frameY="0" frameWidth="2004" frameHeight="2004" />
+</TextureAtlas>

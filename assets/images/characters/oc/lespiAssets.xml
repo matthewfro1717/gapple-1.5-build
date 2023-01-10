@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lespiAssets.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lespiDown0000" x="0" y="0" width="420" height="336" pivotX="211.15" pivotY="108.35"/>
+	<SubTexture name="lespiDown0001" x="420" y="0" width="420" height="336"/>
+	<SubTexture name="lespiDown0002" x="420" y="0" width="420" height="336"/>
+	<SubTexture name="lespiDown0003" x="0" y="0" width="420" height="336"/>
+	<SubTexture name="lespiDown0004" x="0" y="0" width="420" height="336"/>
+	<SubTexture name="lespiDown0005" x="840" y="0" width="420" height="336"/>
+	<SubTexture name="lespiDown0006" x="840" y="0" width="420" height="336"/>
+	<SubTexture name="lespiDown0007" x="1260" y="0" width="420" height="336"/>
+	<SubTexture name="lespiDown0008" x="1260" y="0" width="420" height="336"/>
+	<SubTexture name="lespiHey0000" x="1680" y="0" width="421" height="335" pivotX="211.15" pivotY="108.35"/>
+	<SubTexture name="lespiHey0001" x="1680" y="0" width="421" height="335"/>
+	<SubTexture name="lespiHey0002" x="2101" y="0" width="421" height="335"/>
+	<SubTexture name="lespiHey0003" x="2101" y="0" width="421" height="335"/>
+	<SubTexture name="lespiHey0004" x="2522" y="0" width="421" height="335"/>
+	<SubTexture name="lespiHey0005" x="2522" y="0" width="421" height="335"/>
+	<SubTexture name="lespiIdle0000" x="2943" y="0" width="421" height="336" pivotX="211.15" pivotY="108.35"/>
+	<SubTexture name="lespiIdle0001" x="2943" y="0" width="421" height="336"/>
+	<SubTexture name="lespiIdle0002" x="3364" y="0" width="421" height="336"/>
+	<SubTexture name="lespiIdle0003" x="3364" y="0" width="421" height="336"/>
+	<SubTexture name="lespiIdle0004" x="3785" y="0" width="421" height="336"/>
+	<SubTexture name="lespiIdle0005" x="3785" y="0" width="421" height="336"/>
+	<SubTexture name="lespiIdle0006" x="4206" y="0" width="421" height="336"/>
+	<SubTexture name="lespiIdle0007" x="4206" y="0" width="421" height="336"/>
+	<SubTexture name="lespiIdle0008" x="4627" y="0" width="421" height="336"/>
+	<SubTexture name="lespiIdle0009" x="4627" y="0" width="421" height="336"/>
+	<SubTexture name="lespiIdle0010" x="4627" y="0" width="421" height="336"/>
+	<SubTexture name="lespiIdle0011" x="4627" y="0" width="421" height="336"/>
+	<SubTexture name="lespiLeft0000" x="5048" y="0" width="420" height="336" pivotX="211.15" pivotY="108.35"/>
+	<SubTexture name="lespiLeft0001" x="5468" y="0" width="420" height="336"/>
+	<SubTexture name="lespiLeft0002" x="5468" y="0" width="420" height="336"/>
+	<SubTexture name="lespiLeft0003" x="5048" y="0" width="420" height="336"/>
+	<SubTexture name="lespiLeft0004" x="5048" y="0" width="420" height="336"/>
+	<SubTexture name="lespiLeft0005" x="5888" y="0" width="420" height="336"/>
+	<SubTexture name="lespiLeft0006" x="5888" y="0" width="420" height="336"/>
+	<SubTexture name="lespiLeft0007" x="6308" y="0" width="420" height="336"/>
+	<SubTexture name="lespiLeft0008" x="6308" y="0" width="420" height="336"/>
+	<SubTexture name="lespiLeft0009" x="6728" y="0" width="420" height="336"/>
+	<SubTexture name="lespiLeft0010" x="6728" y="0" width="420" height="336"/>
+	<SubTexture name="lespiRight0000" x="7148" y="0" width="421" height="336" pivotX="211.15" pivotY="108.35"/>
+	<SubTexture name="lespiRight0001" x="7569" y="0" width="421" height="336"/>
+	<SubTexture name="lespiRight0002" x="7569" y="0" width="421" height="336"/>
+	<SubTexture name="lespiRight0003" x="7148" y="0" width="421" height="336"/>
+	<SubTexture name="lespiRight0004" x="7148" y="0" width="421" height="336"/>
+	<SubTexture name="lespiRight0005" x="0" y="336" width="421" height="336"/>
+	<SubTexture name="lespiRight0006" x="0" y="336" width="421" height="336"/>
+	<SubTexture name="lespiRight0007" x="421" y="336" width="421" height="336"/>
+	<SubTexture name="lespiRight0008" x="421" y="336" width="421" height="336"/>
+	<SubTexture name="lespiUp0000" x="842" y="336" width="421" height="335" pivotX="211.15" pivotY="108.35"/>
+	<SubTexture name="lespiUp0001" x="1263" y="336" width="421" height="335"/>
+	<SubTexture name="lespiUp0002" x="1263" y="336" width="421" height="335"/>
+	<SubTexture name="lespiUp0003" x="842" y="336" width="421" height="335"/>
+	<SubTexture name="lespiUp0004" x="842" y="336" width="421" height="335"/>
+	<SubTexture name="lespiUp0005" x="1684" y="336" width="421" height="335"/>
+	<SubTexture name="lespiUp0006" x="1684" y="336" width="421" height="335"/>
+	<SubTexture name="lespiUp0007" x="2105" y="336" width="421" height="335"/>
+	<SubTexture name="lespiUp0008" x="2105" y="336" width="421" height="335"/>
+</TextureAtlas>

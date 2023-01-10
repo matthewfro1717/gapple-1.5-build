@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="brobgonal.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DOWN0000" x="0" y="0" width="528" height="514"/>
+	<SubTexture name="DOWN0001" x="0" y="0" width="528" height="514"/>
+	<SubTexture name="DOWN0002" x="528" y="0" width="528" height="514"/>
+	<SubTexture name="DOWN0003" x="528" y="0" width="528" height="514"/>
+	<SubTexture name="DOWN0004" x="1056" y="0" width="528" height="514"/>
+	<SubTexture name="DOWN0005" x="1056" y="0" width="528" height="514"/>
+	<SubTexture name="DOWN0006" x="0" y="514" width="528" height="514"/>
+	<SubTexture name="DOWN0007" x="0" y="514" width="528" height="514"/>
+	<SubTexture name="DOWN0008" x="0" y="514" width="528" height="514"/>
+	<SubTexture name="DOWN0009" x="0" y="514" width="528" height="514"/>
+	<SubTexture name="IDLE0000" x="528" y="514" width="528" height="514"/>
+	<SubTexture name="IDLE0001" x="528" y="514" width="528" height="514"/>
+	<SubTexture name="IDLE0002" x="1056" y="514" width="528" height="514"/>
+	<SubTexture name="IDLE0003" x="1056" y="514" width="528" height="514"/>
+	<SubTexture name="IDLE0004" x="0" y="1028" width="528" height="514"/>
+	<SubTexture name="IDLE0005" x="0" y="1028" width="528" height="514"/>
+	<SubTexture name="IDLE0006" x="528" y="1028" width="528" height="514"/>
+	<SubTexture name="IDLE0007" x="528" y="1028" width="528" height="514"/>
+	<SubTexture name="IDLE0008" x="528" y="1028" width="528" height="514"/>
+	<SubTexture name="IDLE0009" x="528" y="1028" width="528" height="514"/>
+	<SubTexture name="LEFT0000" x="1056" y="1028" width="528" height="514"/>
+	<SubTexture name="LEFT0001" x="1056" y="1028" width="528" height="514"/>
+	<SubTexture name="LEFT0002" x="0" y="1542" width="528" height="514"/>
+	<SubTexture name="LEFT0003" x="0" y="1542" width="528" height="514"/>
+	<SubTexture name="LEFT0004" x="528" y="1542" width="528" height="514"/>
+	<SubTexture name="LEFT0005" x="528" y="1542" width="528" height="514"/>
+	<SubTexture name="LEFT0006" x="1056" y="1542" width="528" height="514"/>
+	<SubTexture name="LEFT0007" x="1056" y="1542" width="528" height="514"/>
+	<SubTexture name="LEFT0008" x="1056" y="1542" width="528" height="514"/>
+	<SubTexture name="LEFT0009" x="1056" y="1542" width="528" height="514"/>
+	<SubTexture name="RIGHT0000" x="0" y="2056" width="528" height="514"/>
+	<SubTexture name="RIGHT0001" x="0" y="2056" width="528" height="514"/>
+	<SubTexture name="RIGHT0002" x="528" y="2056" width="528" height="514"/>
+	<SubTexture name="RIGHT0003" x="528" y="2056" width="528" height="514"/>
+	<SubTexture name="RIGHT0004" x="1056" y="2056" width="528" height="514"/>
+	<SubTexture name="RIGHT0005" x="1056" y="2056" width="528" height="514"/>
+	<SubTexture name="RIGHT0006" x="0" y="2570" width="528" height="514"/>
+	<SubTexture name="RIGHT0007" x="0" y="2570" width="528" height="514"/>
+	<SubTexture name="RIGHT0008" x="0" y="2570" width="528" height="514"/>
+	<SubTexture name="RIGHT0009" x="0" y="2570" width="528" height="514"/>
+	<SubTexture name="UP0000" x="528" y="2570" width="528" height="514"/>
+	<SubTexture name="UP0001" x="528" y="2570" width="528" height="514"/>
+	<SubTexture name="UP0002" x="1056" y="2570" width="528" height="514"/>
+	<SubTexture name="UP0003" x="1056" y="2570" width="528" height="514"/>
+	<SubTexture name="UP0004" x="0" y="3084" width="528" height="514"/>
+	<SubTexture name="UP0005" x="0" y="3084" width="528" height="514"/>
+	<SubTexture name="UP0006" x="528" y="3084" width="528" height="514"/>
+	<SubTexture name="UP0007" x="528" y="3084" width="528" height="514"/>
+	<SubTexture name="UP0008" x="528" y="3084" width="528" height="514"/>
+	<SubTexture name="UP0009" x="528" y="3084" width="528" height="514"/>
+</TextureAtlas>

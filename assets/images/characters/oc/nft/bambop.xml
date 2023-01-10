@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bambop.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dad Sing Note DOWN0000" x="10" y="10" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note DOWN0001" x="10" y="10" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note DOWN0002" x="927" y="10" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note DOWN0003" x="927" y="10" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note DOWN0004" x="10" y="692" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note DOWN0005" x="10" y="692" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note LEFT0000" x="927" y="692" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note LEFT0001" x="927" y="692" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note LEFT0002" x="10" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note LEFT0003" x="10" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note LEFT0004" x="927" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note LEFT0005" x="927" y="1374" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note RIGHT0000" x="10" y="2056" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note RIGHT0001" x="10" y="2056" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note RIGHT0002" x="927" y="2056" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note RIGHT0003" x="927" y="2056" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note RIGHT0004" x="10" y="2738" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note RIGHT0005" x="10" y="2738" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note UP0000" x="927" y="2738" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note UP0001" x="927" y="2738" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note UP0002" x="10" y="3420" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note UP0003" x="10" y="3420" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note UP0004" x="927" y="3420" width="907" height="672"/>
+	<SubTexture name="Dad Sing Note UP0005" x="927" y="3420" width="907" height="672"/>
+	<SubTexture name="Dad idle dance0000" x="10" y="4102" width="907" height="672"/>
+	<SubTexture name="Dad idle dance0001" x="10" y="4102" width="907" height="672"/>
+	<SubTexture name="Dad idle dance0002" x="927" y="4102" width="907" height="672"/>
+	<SubTexture name="Dad idle dance0003" x="927" y="4102" width="907" height="672"/>
+	<SubTexture name="Dad idle dance0004" x="10" y="4784" width="907" height="672"/>
+	<SubTexture name="Dad idle dance0005" x="10" y="4784" width="907" height="672"/>
+	<SubTexture name="Dad idle dance0006" x="927" y="4784" width="907" height="672"/>
+	<SubTexture name="Dad idle dance0007" x="927" y="4784" width="907" height="672"/>
+	<SubTexture name="Dad idle dance0008" x="927" y="4784" width="907" height="672"/>
+	<SubTexture name="Dad idle dance0009" x="927" y="4784" width="907" height="672"/>
+	<SubTexture name="Dad idle dance0010" x="927" y="4784" width="907" height="672"/>
+	<SubTexture name="Dad idle dance0011" x="927" y="4784" width="907" height="672"/>
+	<SubTexture name="kill0000" x="10" y="5466" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0001" x="10" y="5466" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0002" x="10" y="5466" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0003" x="10" y="5466" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0004" x="10" y="5466" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0005" x="10" y="5466" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0006" x="927" y="5466" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0007" x="10" y="6148" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0008" x="927" y="6148" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0009" x="927" y="6148" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0010" x="927" y="6148" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0011" x="927" y="6148" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0012" x="927" y="6148" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0013" x="10" y="6830" width="928" height="672" frameX="0" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0014" x="948" y="6830" width="907" height="672" frameX="-20" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0015" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0016" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0017" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0018" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0019" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0020" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0021" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0022" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0023" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0024" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0025" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0026" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0027" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0028" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0029" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0030" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0031" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0032" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0033" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0034" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0035" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0036" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0037" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0038" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0039" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0040" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0041" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0042" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0043" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0044" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0045" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0046" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0047" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0048" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0049" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0050" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0051" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0052" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0053" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0054" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0055" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0056" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0057" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0058" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0059" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0060" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0061" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0062" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0063" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0064" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0065" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0066" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0067" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0068" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0069" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0070" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0071" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0072" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0073" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0074" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0075" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0076" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0077" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0078" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0079" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0080" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0081" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0082" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0083" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0084" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0085" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0086" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0087" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0088" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0089" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0090" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0091" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0092" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0093" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0094" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0095" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0096" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0097" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0098" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0099" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0100" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0101" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0102" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0103" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0104" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0105" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0106" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0107" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0108" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0109" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0110" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0111" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0112" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0113" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0114" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0115" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0116" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+	<SubTexture name="kill0117" x="948" y="6830" width="907" height="672" frameX="-23" frameY="0" frameWidth="930" frameHeight="672"/>
+</TextureAtlas>
