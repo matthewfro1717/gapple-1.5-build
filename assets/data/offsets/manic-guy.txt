@@ -1,0 +1,6 @@
+idle 0 0
+talk 0 0
+singDOWN 3 -8
+singRIGHT 4 14
+singUP -11 27
+singLEFT 48 -1

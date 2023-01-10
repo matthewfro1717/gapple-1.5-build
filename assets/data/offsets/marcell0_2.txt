@@ -1,0 +1,8 @@
+idle0 -60 -70
+idle1 -120 -110
+idle2 -20 0
+idle3 -160 -70
+singLEFT -90 -170
+singDOWN -140 -150
+singUP -220 -20
+singRIGHT -140 -160

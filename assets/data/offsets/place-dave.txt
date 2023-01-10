@@ -1,0 +1,7 @@
+poopedIn -22 -46
+idle -22 -36
+singRIGHT -22 -46
+singDOWN -22 -46
+singLEFT -2 -46
+singUP -12 -36
+poopedOut -22 -46

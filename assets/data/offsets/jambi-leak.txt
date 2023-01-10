@@ -1,0 +1,5 @@
+danceLeft 0 0
+danceDown 30 0
+danceUp 37 -50
+danceRight -20 50
+crazy 0 0

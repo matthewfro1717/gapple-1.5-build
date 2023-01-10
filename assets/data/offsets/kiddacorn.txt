@@ -1,0 +1,7 @@
+idle 6 28
+singRIGHT 27 7
+singDOWN 6 7
+singLEFT 88 6
+singUP 6 152
+scream 6 180
+shmoovin 145 88

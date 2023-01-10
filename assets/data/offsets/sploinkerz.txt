@@ -1,0 +1,8 @@
+deathConfirm -140 -39
+deathLoop -103 -80
+firstDeath -100 -80
+idle 0 0
+singRIGHT 10 60
+singDOWN -10 -110
+singLEFT 180 30
+singUP -10 140
