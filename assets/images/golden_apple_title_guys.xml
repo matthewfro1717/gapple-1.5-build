@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="old_gapple_titlers.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dance0000" x="10" y="10" width="1195" height="944"/>
+	<SubTexture name="dance0001" x="10" y="964" width="1195" height="944"/>
+	<SubTexture name="dance0002" x="10" y="964" width="1195" height="944"/>
+	<SubTexture name="dance0003" x="10" y="10" width="1195" height="944"/>
+	<SubTexture name="dance0004" x="10" y="10" width="1195" height="944"/>
+	<SubTexture name="dance0005" x="10" y="1918" width="1195" height="944"/>
+	<SubTexture name="dance0006" x="10" y="1918" width="1195" height="944"/>
+	<SubTexture name="dance0007" x="10" y="2872" width="1195" height="944"/>
+	<SubTexture name="dance0008" x="10" y="2872" width="1195" height="944"/>
+	<SubTexture name="dance0009" x="10" y="2872" width="1195" height="944"/>
+	<SubTexture name="dance0010" x="10" y="2872" width="1195" height="944"/>
+	<SubTexture name="dance0011" x="10" y="2872" width="1195" height="944"/>
+	<SubTexture name="dance0012" x="10" y="2872" width="1195" height="944"/>
+	<SubTexture name="dance0013" x="10" y="2872" width="1195" height="944"/>
+	<SubTexture name="scare0000" x="1215" y="10" width="1195" height="944"/>
+	<SubTexture name="scare0001" x="1215" y="964" width="1195" height="944"/>
+	<SubTexture name="scare0002" x="1215" y="964" width="1195" height="944"/>
+	<SubTexture name="scare0003" x="1215" y="10" width="1195" height="944"/>
+	<SubTexture name="scare0004" x="1215" y="10" width="1195" height="944"/>
+	<SubTexture name="scare0005" x="1215" y="1918" width="1195" height="944"/>
+	<SubTexture name="scare0006" x="1215" y="1918" width="1195" height="944"/>
+	<SubTexture name="scare0007" x="1215" y="2872" width="1195" height="944"/>
+	<SubTexture name="scare0008" x="1215" y="2872" width="1195" height="944"/>
+	<SubTexture name="scare0009" x="1215" y="2872" width="1195" height="944"/>
+	<SubTexture name="scare0010" x="1215" y="2872" width="1195" height="944"/>
+	<SubTexture name="scare0011" x="1215" y="2872" width="1195" height="944"/>
+	<SubTexture name="scare0012" x="1215" y="2872" width="1195" height="944"/>
+	<SubTexture name="scare0013" x="1215" y="2872" width="1195" height="944"/>
+</TextureAtlas>
