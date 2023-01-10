@@ -1,0 +1,15 @@
+:bf:beep?!
+:bambi:Welcome, Boyfriend!
+:bambi:I’m Jambi! Your former personal assistant!
+:bambi:Because now you’re in MY hard drive, I get to be the host of this system!
+:bf:beeeweoooo…
+:bambi:‘Keep sentience’ is not recognized as an internal or external command.
+:bambi:ECHO OFF run s542emergency.bat
+:bambi:run admin.exe
+:bambi:C:\WINDOWS\system32>netsh advfirewall set allprofiles state off
+:bambi:ECHO OFF run s542emergency.bat
+:bambi:run admin.exe
+:bambi:FlxG.sound.playMusic(Paths.inst('jambino'));
+:bambi:vocals.play(Paths.voices('jambino'));
+:bambi:SONG.loadFromJson('jambino'); 
+:bambi:startCountdown();
