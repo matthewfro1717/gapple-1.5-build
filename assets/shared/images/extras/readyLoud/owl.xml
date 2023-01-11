@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="owl.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="owl0000" x="2" y="2" width="227" height="160" frameX="-1169" frameY="-331" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0001" x="2" y="2" width="227" height="160" frameX="-1169" frameY="-331" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0002" x="239" y="2" width="243" height="149" frameX="-1081" frameY="-410" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0003" x="239" y="2" width="243" height="149" frameX="-1081" frameY="-410" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0004" x="492" y="2" width="386" height="171" frameX="-830" frameY="-430" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0005" x="492" y="2" width="386" height="171" frameX="-830" frameY="-430" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0006" x="888" y="2" width="316" height="204" frameX="-732" frameY="-395" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0007" x="888" y="2" width="316" height="204" frameX="-732" frameY="-395" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0008" x="1214" y="2" width="322" height="219" frameX="-713" frameY="-372" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0009" x="1214" y="2" width="322" height="219" frameX="-713" frameY="-372" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0010" x="1546" y="2" width="339" height="233" frameX="-696" frameY="-359" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0011" x="1546" y="2" width="339" height="233" frameX="-696" frameY="-359" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0012" x="1895" y="2" width="357" height="240" frameX="-687" frameY="-363" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0013" x="1895" y="2" width="357" height="240" frameX="-687" frameY="-363" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0014" x="2262" y="2" width="507" height="324" frameX="-629" frameY="-402" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0015" x="2262" y="2" width="507" height="324" frameX="-629" frameY="-402" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0016" x="2779" y="2" width="886" height="512" frameX="-473" frameY="-370" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0017" x="2779" y="2" width="886" height="512" frameX="-473" frameY="-370" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0018" x="2" y="524" width="1264" height="1100" frameX="-242" frameY="-179" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0019" x="2" y="524" width="1264" height="1100" frameX="-242" frameY="-179" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0020" x="1276" y="524" width="1308" height="1167" frameX="-221" frameY="-134" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0021" x="1276" y="524" width="1308" height="1167" frameX="-221" frameY="-134" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0022" x="2594" y="524" width="1394" height="1193" frameX="-176" frameY="-122" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0023" x="2594" y="524" width="1394" height="1193" frameX="-176" frameY="-122" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0024" x="2" y="1727" width="1635" height="1395" frameX="-58" frameY="-20" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0025" x="2" y="1727" width="1635" height="1395" frameX="-58" frameY="-20" frameWidth="1749" frameHeight="1477"/>
+	<SubTexture name="owl0026" x="1647" y="1727" width="1749" height="1477"/>
+	<SubTexture name="owl0027" x="1647" y="1727" width="1749" height="1477"/>
+</TextureAtlas>

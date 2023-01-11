@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scrt.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="transition thing0000" x="0" y="0" width="1280" height="720" frameX="-877" frameY="-455" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0001" x="0" y="0" width="1280" height="720" frameX="-877" frameY="-455" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0002" x="0" y="0" width="1280" height="720" frameX="-877" frameY="-455" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0003" x="0" y="0" width="1280" height="720" frameX="-877" frameY="-455" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0004" x="0" y="0" width="1280" height="720" frameX="-877" frameY="-455" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0005" x="0" y="0" width="1280" height="720" frameX="-877" frameY="-455" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0006" x="1280" y="0" width="1280" height="720" frameX="-877" frameY="-455" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0007" x="1280" y="0" width="1280" height="720" frameX="-877" frameY="-455" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0008" x="1280" y="0" width="1280" height="720" frameX="-877" frameY="-455" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0009" x="1280" y="0" width="1280" height="720" frameX="-877" frameY="-455" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0010" x="1280" y="0" width="1280" height="720" frameX="-877" frameY="-455" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0011" x="1280" y="0" width="1280" height="720" frameX="-877" frameY="-455" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0012" x="0" y="0" width="1280" height="720" frameX="-877" frameY="-455" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0013" x="0" y="0" width="1280" height="720" frameX="-877" frameY="-455" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0014" x="2560" y="0" width="1357" height="720" frameX="-800" frameY="-455" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0015" x="2560" y="0" width="1357" height="720" frameX="-800" frameY="-455" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0016" x="0" y="720" width="1465" height="773" frameX="-692" frameY="-402" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0017" x="0" y="720" width="1465" height="773" frameX="-692" frameY="-402" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0018" x="1465" y="720" width="1471" height="899" frameX="-686" frameY="-276" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0019" x="1465" y="720" width="1471" height="899" frameX="-686" frameY="-276" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0020" x="0" y="1619" width="1570" height="1003" frameX="-587" frameY="-172" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0021" x="0" y="1619" width="1570" height="1003" frameX="-587" frameY="-172" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0022" x="1570" y="1619" width="1883" height="1175" frameX="-274" frameY="0" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0023" x="1570" y="1619" width="1883" height="1175" frameX="-274" frameY="0" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0024" x="0" y="2794" width="2157" height="1307" frameX="0" frameY="-113" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0025" x="0" y="2794" width="2157" height="1307" frameX="0" frameY="-113" frameWidth="2157" frameHeight="1535"/>
+	<SubTexture name="transition thing0026" x="0" y="4101" width="2128" height="1306" frameX="-29" frameY="-229" frameWidth="2157" frameHeight="1535"/>
+</TextureAtlas>

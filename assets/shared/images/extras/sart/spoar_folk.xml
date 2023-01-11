@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sart_minions.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="danceLeft0000" x="10" y="10" width="909" height="484"/>
+	<SubTexture name="danceLeft0001" x="10" y="10" width="909" height="484"/>
+	<SubTexture name="danceLeft0002" x="929" y="10" width="909" height="484"/>
+	<SubTexture name="danceLeft0003" x="929" y="10" width="909" height="484"/>
+	<SubTexture name="danceLeft0004" x="1848" y="10" width="909" height="484"/>
+	<SubTexture name="danceLeft0005" x="1848" y="10" width="909" height="484"/>
+	<SubTexture name="danceLeft0006" x="2767" y="10" width="909" height="484"/>
+	<SubTexture name="danceLeft0007" x="2767" y="10" width="909" height="484"/>
+	<SubTexture name="danceLeft0008" x="10" y="504" width="909" height="484"/>
+	<SubTexture name="danceLeft0009" x="10" y="504" width="909" height="484"/>
+	<SubTexture name="danceLeft0010" x="10" y="504" width="909" height="484"/>
+	<SubTexture name="danceLeft0011" x="10" y="504" width="909" height="484"/>
+	<SubTexture name="danceLeft0012" x="10" y="504" width="909" height="484"/>
+	<SubTexture name="danceLeft0013" x="10" y="504" width="909" height="484"/>
+	<SubTexture name="danceRight0000" x="929" y="504" width="909" height="484"/>
+	<SubTexture name="danceRight0001" x="929" y="504" width="909" height="484"/>
+	<SubTexture name="danceRight0002" x="10" y="10" width="909" height="484"/>
+	<SubTexture name="danceRight0003" x="10" y="10" width="909" height="484"/>
+	<SubTexture name="danceRight0004" x="1848" y="504" width="909" height="484"/>
+	<SubTexture name="danceRight0005" x="1848" y="504" width="909" height="484"/>
+	<SubTexture name="danceRight0006" x="2767" y="504" width="909" height="484"/>
+	<SubTexture name="danceRight0007" x="2767" y="504" width="909" height="484"/>
+	<SubTexture name="danceRight0008" x="10" y="998" width="909" height="484"/>
+	<SubTexture name="danceRight0009" x="10" y="998" width="909" height="484"/>
+	<SubTexture name="danceRight0010" x="10" y="998" width="909" height="484"/>
+	<SubTexture name="danceRight0011" x="10" y="998" width="909" height="484"/>
+	<SubTexture name="danceRight0012" x="10" y="998" width="909" height="484"/>
+	<SubTexture name="danceRight0013" x="10" y="998" width="909" height="484"/>
+	<SubTexture name="uncle klunk move0000" x="10" y="998" width="909" height="484"/>
+	<SubTexture name="uncle klunk move0001" x="10" y="998" width="909" height="484"/>
+	<SubTexture name="uncle klunk move0002" x="929" y="998" width="909" height="484"/>
+	<SubTexture name="uncle klunk move0003" x="929" y="998" width="909" height="484"/>
+	<SubTexture name="uncle klunk move0004" x="1848" y="998" width="909" height="484"/>
+	<SubTexture name="uncle klunk move0005" x="1848" y="998" width="909" height="484"/>
+	<SubTexture name="uncle klunk move0006" x="929" y="504" width="909" height="484"/>
+	<SubTexture name="uncle klunk move0007" x="929" y="504" width="909" height="484"/>
+	<SubTexture name="uncle klunk move0008" x="2767" y="998" width="909" height="484"/>
+	<SubTexture name="uncle klunk move0009" x="2767" y="998" width="909" height="484"/>
+	<SubTexture name="uncle klunk move0010" x="10" y="1492" width="909" height="484"/>
+	<SubTexture name="uncle klunk move0011" x="10" y="1492" width="909" height="484"/>
+	<SubTexture name="uncle klunk move0012" x="10" y="1492" width="909" height="484"/>
+	<SubTexture name="uncle klunk move0013" x="10" y="1492" width="909" height="484"/>
+</TextureAtlas>

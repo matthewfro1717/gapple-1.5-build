@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="prisonlifewow.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="scroller0000" x="0" y="0" width="1410" height="785"/>
+	<SubTexture name="scroller0001" x="0" y="0" width="1410" height="785"/>
+	<SubTexture name="scroller0002" x="1410" y="0" width="1410" height="785"/>
+	<SubTexture name="scroller0003" x="1410" y="0" width="1410" height="785"/>
+	<SubTexture name="scroller0004" x="2820" y="0" width="1410" height="785"/>
+	<SubTexture name="scroller0005" x="2820" y="0" width="1410" height="785"/>
+	<SubTexture name="scroller0006" x="4230" y="0" width="1410" height="785"/>
+	<SubTexture name="scroller0007" x="4230" y="0" width="1410" height="785"/>
+	<SubTexture name="scroller0008" x="5640" y="0" width="1410" height="785"/>
+	<SubTexture name="scroller0009" x="5640" y="0" width="1410" height="785"/>
+	<SubTexture name="scroller0010" x="0" y="785" width="1410" height="785"/>
+	<SubTexture name="scroller0011" x="0" y="785" width="1410" height="785"/>
+	<SubTexture name="scroller0012" x="1410" y="785" width="1410" height="785"/>
+	<SubTexture name="scroller0013" x="1410" y="785" width="1410" height="785"/>
+	<SubTexture name="scroller0014" x="2820" y="785" width="1410" height="785"/>
+	<SubTexture name="scroller0015" x="2820" y="785" width="1410" height="785"/>
+	<SubTexture name="scroller0016" x="4230" y="785" width="1410" height="785"/>
+	<SubTexture name="scroller0017" x="4230" y="785" width="1410" height="785"/>
+	<SubTexture name="scroller0018" x="5640" y="785" width="1410" height="785"/>
+	<SubTexture name="scroller0019" x="5640" y="785" width="1410" height="785"/>
+	<SubTexture name="scroller0020" x="0" y="1570" width="1410" height="785"/>
+	<SubTexture name="scroller0021" x="0" y="1570" width="1410" height="785"/>
+	<SubTexture name="scroller0022" x="1410" y="1570" width="1410" height="785"/>
+	<SubTexture name="scroller0023" x="1410" y="1570" width="1410" height="785"/>
+	<SubTexture name="scroller0024" x="2820" y="1570" width="1410" height="785"/>
+	<SubTexture name="scroller0025" x="2820" y="1570" width="1410" height="785"/>
+	<SubTexture name="scroller0026" x="4230" y="1570" width="1410" height="785"/>
+	<SubTexture name="scroller0027" x="4230" y="1570" width="1410" height="785"/>
+	<SubTexture name="scroller0028" x="5640" y="1570" width="1410" height="785"/>
+	<SubTexture name="scroller0029" x="5640" y="1570" width="1410" height="785"/>
+	<SubTexture name="scroller0030" x="0" y="2355" width="1410" height="785"/>
+	<SubTexture name="scroller0031" x="0" y="2355" width="1410" height="785"/>
+	<SubTexture name="scroller0032" x="1410" y="2355" width="1410" height="785"/>
+	<SubTexture name="scroller0033" x="1410" y="2355" width="1410" height="785"/>
+	<SubTexture name="scroller0034" x="2820" y="2355" width="1410" height="785"/>
+	<SubTexture name="scroller0035" x="2820" y="2355" width="1410" height="785"/>
+	<SubTexture name="scroller0036" x="4230" y="2355" width="1410" height="785"/>
+	<SubTexture name="scroller0037" x="4230" y="2355" width="1410" height="785"/>
+	<SubTexture name="scroller0038" x="5640" y="2355" width="1410" height="785"/>
+	<SubTexture name="scroller0039" x="5640" y="2355" width="1410" height="785"/>
+	<SubTexture name="scroller0040" x="0" y="3140" width="1410" height="785"/>
+	<SubTexture name="scroller0041" x="0" y="3140" width="1410" height="785"/>
+	<SubTexture name="scroller0042" x="1410" y="3140" width="1410" height="785"/>
+	<SubTexture name="scroller0043" x="1410" y="3140" width="1410" height="785"/>
+	<SubTexture name="scroller0044" x="2820" y="3140" width="1410" height="785"/>
+	<SubTexture name="scroller0045" x="2820" y="3140" width="1410" height="785"/>
+	<SubTexture name="scroller0046" x="4230" y="3140" width="1410" height="785"/>
+	<SubTexture name="scroller0047" x="4230" y="3140" width="1410" height="785"/>
+	<SubTexture name="scroller0048" x="5640" y="3140" width="1410" height="785"/>
+	<SubTexture name="scroller0049" x="5640" y="3140" width="1410" height="785"/>
+	<SubTexture name="scroller0050" x="0" y="3925" width="1410" height="785"/>
+	<SubTexture name="scroller0051" x="0" y="3925" width="1410" height="785"/>
+	<SubTexture name="scroller0052" x="1410" y="3925" width="1410" height="785"/>
+	<SubTexture name="scroller0053" x="1410" y="3925" width="1410" height="785"/>
+	<SubTexture name="scroller0054" x="2820" y="3925" width="1410" height="785"/>
+	<SubTexture name="scroller0055" x="2820" y="3925" width="1410" height="785"/>
+	<SubTexture name="scroller0056" x="4230" y="3925" width="1410" height="785"/>
+</TextureAtlas>
