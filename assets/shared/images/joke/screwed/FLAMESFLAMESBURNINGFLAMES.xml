@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FLAMESFLAMESBURNINGFLAMES.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FlamesBurn0000" x="3" y="3" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0001" x="1298" y="3" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0002" x="2593" y="3" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0003" x="3888" y="3" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0004" x="5183" y="3" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0005" x="6478" y="3" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0006" x="3" y="726" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0007" x="1298" y="726" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0008" x="2593" y="726" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0009" x="3888" y="726" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0010" x="5183" y="726" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0011" x="6478" y="726" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0012" x="3" y="1449" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0013" x="1298" y="1449" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0014" x="2593" y="1449" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0015" x="3888" y="1449" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0016" x="5183" y="1449" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0017" x="6478" y="1449" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0018" x="3" y="2172" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0019" x="1298" y="2172" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0020" x="2593" y="2172" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0021" x="3888" y="2172" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0022" x="5183" y="2172" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0023" x="6478" y="2172" width="1292" height="720"/>
+	<SubTexture name="FlamesBurn0024" x="3" y="2895" width="1292" height="720"/>
+</TextureAtlas>
